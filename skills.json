@@ -1,6 +1,9 @@
+
+
+// grep -c '{' skills.json | tr -d '[:space:]' : 53 skills 
 {
     "data_analysis": {
-      "description": "The process of inspecting, cleaning, transforming, and modeling data with the goal of discovering useful information, drawing conclusions, and supporting decision-making.",
+      "description": "The process of inspecting, cleaning, transforming, and modeling data to obtain insights and conclusions that supports businesses decision-making.",
       "tags": ["#data", "#analysis", "#modeling", "#decision-making"]
     },
     "data_science": {
@@ -9,15 +12,16 @@
     },
     "machine_learning": {
       "description": "A subset of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.",
-      "tags": ["#machine learning", "#subset", "#artificial intelligence", "#improve"]
+      "tags": ["#deep learning", "#neural networks", "#artificial intelligence", "#predictive modeling"]
     },
     "data_mining": {
       "description": "The process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.",
       "tags": ["#data mining", "#patterns", "#machine learning", "#database systems"]
     },
     "statistical_analysis": {
-      "description": "The science of collecting, exploring, and presenting large amounts of data to discover underlying patterns and trends, and to make informed decisions.",
-      "tags": ["#statistical analysis", "#science", "#data", "#informed decisions"]
+      "description": "Proficiency in statistical methods, stochastic calculus, and quantitative methods used to collect, explore, and present formally large amounts of data in order to apply mathematical properties and discover underlying patterns / trends to make informed decisions.",
+      "tags": ["#statistical analysis", "#statistics", "#stochastic calculus", "#quantitative methods", "#data", "#informed decisions"]
+      ---
     },
     "business_intelligence": {
       "description": "The use of data analysis tools and techniques to gain insights into business performance and inform decision-making.",
@@ -107,11 +111,11 @@
       "description": "The process of evaluating businesses, projects, budgets, and other finance-related entities to determine their performance and suitability.",
       "tags": ["#financial analysis", "#evaluating", "#businesses", "#performance"]
     },
-    "risk_analysis": {
-      "description": "The process of identifying, assessing, and prioritizing risks within industries to minimize, monitor, and control future events.",
-      "tags": ["#risk analysis", "#identifying", "#assessing", "#minimizing"]
+    "credit_risk": {
+      "description": "The risk of loss due to a borrower's failure to make payments on any type of debt.",
+      "tags": ["#credit risk", "#borrower", "#debt", "#payments"]
     },
-    "market risks management": {
+    "market risk management": {
       "description": "The process of identifying, analyzing, and managing market risks for the markets arbitrage and/or portfolio hedging purposes for financial institutions.",
       "tags": ["#market risks management", "#identifying", "#analyzing", "#financial goals"]
     },
@@ -154,6 +158,81 @@
     "unsupervised_learning": {
       "description": "A machine learning technique that uses unlabeled training data to find patterns in data.",
       "tags": ["#unsupervised learning", "#machine learning", "#unlabeled training data", "#patterns"]
-    }
-}
+    },
+    "U/X Design": 
+    { "description": "The process of designing digital products or features, such as websites, apps & tools in order to enhance user's satisfaction by improving products interactivity, usability & accessibility for better user's experience.",
+     "tags": ["#U/X", "#user satisfaction", "#usability", "#accessibility", "#efficiency", "#interactivity"]
+    },
+    "Python": {
+      "description": "Proficiency in Python programming language, commonly used for data analysis, machine learning, and web development.",
+      "tags": ["#Python", "#data analysis", "#machine learning", "#web development"]
+    },
+    "R": {
+      "description": "Proficiency in R programming language, commonly used for statistical computing, data analysis, and machine learning.",
+      "tags": ["#R", "#statistical computing", "#data analysis", "#machine learning"]
+    },
+    "Matlab": {
+      "description": "Proficiency in Matlab programming language, commonly used for numerical computing, data analysis, and scientific computing.",
+      "tags": ["#Matlab", "#numerical computing", "#data analysis", "#scientific computing"]
+    },
+    "Java": {
+      "description": "Proficiency in Java programming language, commonly used for enterprise software development, web development, and Android app development.",
+      "tags": ["#Java", "#enterprise software development", "#web development", "#Android app development"]
+    },
+    "Git": {
+      "description": "Familiarity with Git version control system, commonly used for software development and collaboration.",
+      "tags": ["#Git", "#version control", "#software development", "#collaboration"]
+    },
+    "HTML": {
+      "description": "Proficiency in HTML markup language, commonly used for web development and creating web pages.",
+      "tags": ["#HTML", "#web development", "#web pages"]
+    },
+    "LaTeX": {
+      "description": "Proficiency in LaTeX markup language, commonly used for typesetting technical and scientific documents.",
+      "tags": ["#LaTeX", "#typesetting", "#technical documents", "#scientific documents"]
+    },
+    "Shell": {
+      "description": "Proficiency in shell scripting and command line interfaces, commonly used for automating tasks and manipulating files and directories.",
+      "tags": ["#shell scripting", "#command line interface", "#automation", "#file manipulation"]
+    },
+    "PyTorch": {
+      "description": "Experience with PyTorch, an open source machine learning framework that provides a flexible and efficient platform for deep learning.",
+      "tags": ["#PyTorch", "#machine learning", "#deep learning", "#open source"]
+    },
+    "Keras": {
+      "description": "Experience with Keras, a high-level neural networks API written in Python that runs on top of TensorFlow, CNTK, or Theano.",
+      "tags": ["#Keras", "#neural networks", "#machine learning", "#Python"]
+    },
+    "Streamlit": {
+      "description": "Experience with Streamlit, an open-source Python library that makes it easy to create and share custom web apps for machine learning and data science.",
+      "tags": ["#Streamlit", "#web application", "#machine learning", "#data science", "#open source"]
+    },
+  }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 

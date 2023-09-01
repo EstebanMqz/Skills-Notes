@@ -1,2 +1,2 @@
 # Skills-Notes
-Skillset and working-on Notes documentation.
+This list is a collection of my current skills as a Data Analyst/Scientist 
