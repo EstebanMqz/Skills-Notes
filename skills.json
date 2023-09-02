@@ -2,55 +2,148 @@
 
 // grep -c '{' skills.json | tr -d '[:space:]' : 53 skills 
 {
-    "data_analysis": {
-      "description": "The process of inspecting, cleaning, transforming, and modeling data to obtain insights and conclusions that supports businesses decision-making.",
-      "tags": ["#data", "#analysis", "#modeling", "#decision-making"]
-    },
     "data_science": {
-      "description": "An interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data.",
+      "description": "Updated understanding & implementation of interdisciplinary technologies, algorithms, frameworks & cloud services efficiently to extract insights from structured/unstructured data.",
       "tags": ["#data", "#science", "#interdisciplinary", "#algorithms"]
     },
-    "machine_learning": {
-      "description": "A subset of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.",
-      "tags": ["#deep learning", "#neural networks", "#artificial intelligence", "#predictive modeling"]
+    
+    "data_analysis": {
+      "description": "Professional experience implementing the most up-to-date statistical & technologies for data inspection, cleaning, transforming & modeling to obtain key insights for decision-making.",
+      "tags": ["#data", "#analysis", "#modeling", "#decision-making"]
     },
+
+    "machine_learning": {
+      "description": "5+ years of experience direct experience at the major branch of AI that enables systems to improve from constant data acquisition without further programming.",
+      "tags": ["#deep learning", "#neural networks", "#artificial intelligence", "#predictive modeling", "statistical learning"]
+    },
+
     "data_mining": {
-      "description": "The process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.",
+      "description": "Pattern discovery experience datasets with millions of records to enable the intersection in systems of predictive/time series modelling, ML & databases.",
       "tags": ["#data mining", "#patterns", "#machine learning", "#database systems"]
+
     },
     "statistical_analysis": {
-      "description": "Proficiency in statistical methods, stochastic calculus, and quantitative methods used to collect, explore, and present formally large amounts of data in order to apply mathematical properties and discover underlying patterns / trends to make informed decisions.",
+      "description": "Competences in statistical methods, Stochastic calculus, and Quantitative methods to collect, explore, & apply mathematical properies in order to execute formal ETL processes intended for a wide-range of technicals and able to be further explained to all audience",
       "tags": ["#statistical analysis", "#statistics", "#stochastic calculus", "#quantitative methods", "#data", "#informed decisions"]
-      ---
     },
+
     "business_intelligence": {
-      "description": "The use of data analysis tools and techniques to gain insights into business performance and inform decision-making.",
+      "description": "Analytics tools integrated with devops/IT by modules that also deliver insights from enhanced Data Visualizations for decision-making.",
       "tags": ["#business intelligence", "#data analysis", "#tools", "#decision-making"]
     },
+
     "data_visualization": {
-      "description": "The representation of data in a graphical or pictorial format that enables decision-makers to quickly and easily understand complex information.",
+      "description": "Proficiency using the most updated data visualization interactive pkgs & dashboard tools in a wide range of programming languages and platforms like Matplotlib, Seaborn, Plotly, ggplot, Streamlit, Dash, Tableau, PowerBI.", 
       "tags": ["#data visualization", "#representation", "#graphical", "#decision-makers"]
     },
+
     "big_data": {
-      "description": "A term that describes extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions.",
+      "description": " Large dataset manipulation expertise that may be analyzed to reveal patterns, trends, and key associations from behavioral economics, databases & systems.",
       "tags": ["#big data", "#term", "#patterns", "#human behavior"]
     },
+
     "tableau": {
-      "description": "A data visualization and business intelligence tool that allows users to connect, visualize, and share data in a way that helps them make informed decisions.",
+      "description": "Powerful Data Visualization software that provides a wide-range of interactive efficient capabilities like real-time collaborations through dashboards, it requires a high level of expertise.",
       "tags": ["#tableau", "#data visualization", "#business intelligence", "#informed decisions"]
     },
+
     "deep_learning": {
-      "description": "A subset of machine learning that involves training artificial neural networks to recognize patterns in data.",
+      "description": "From DS ML subset, this is a further subset that uses Artificial Neural Networks for pattern recognition in datasets for predictive modelling.",
       "tags": ["#deep learning", "#subset", "#machine learning", "#neural networks"]
     },
+
     "predictive_modeling": {
-      "description": "The process of using data mining and machine learning techniques to analyze historical data and make predictions about future events.",
+      "description": "Advanced integration tools/techniques of ML & data extraction to forecast the future behavior of events that could implement solutions automatically.",
       "tags": ["#predictive modeling", "#data mining", "#machine learning", "#future events"]
     },
+
     "artificial_intelligence": {
-      "description": "The simulation of human intelligence processes by machines, especially computer systems.",
+      "description": "Simulation and execution of processes by machines through embedded systems and powerful ingrained task-executions to further automate systems faster & more effectively.",
       "tags": ["#artificial intelligence", "#simulation", "#human intelligence", "#computer systems"]
     },
+
+    "data_cleansing": {
+      "description": "Handling datasets duplicate & missing values, standardizing data, handling outliers, processing dtypes inconsistenies (e.g text processing) and white noise reduction in temporal.",
+      "tags": ["#data cleansing", "#identifying", "#correcting", "#inaccurate records"]
+    },
+
+    "data_modeling": {
+      "description": "The process of creating a conceptual representation of data and the relationships between data elements.",
+      "tags": ["#data modeling", "#conceptual representation", "#data elements", "#relationships"]
+    },
+
+    "data_integration": {
+      "description": "The process of combining data from different sources into a unified view to provide a complete picture of an organization's data.",
+      "tags": ["#data integration", "#combining", "#different sources", "#unified view"]
+    },
+
+    "data_engineering": {
+      "description": "The process of designing, building, and maintaining the systems and infrastructure that enable the storage, processing, and analysis of large amounts of data.",
+      "tags": ["#data engineering", "#designing", "#building", "#infrastructure"]
+    },
+
+    "data_migration": {
+      "description": "The process of transferring data from one system to another, while ensuring that the data remains accurate and consistent.",
+      "tags": ["#data migration", "#transferring", "#accurate", "#consistent"]
+    },
+
+    "web_scraping": {
+        "description": "Proficient in web scraping techniques to extract data from websites and compliance with copyright laws..",
+        "tags": ["#web scraping", "#data extraction", "#data acquisition", "#legal compliance"]
+    },
+
+    "devops/project_management": {
+      "description": "A set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality.",
+      "tags": ["#devops", "#software development", "#IT operations", "#continuous delivery"]
+    },
+
+    "business analytics": {
+      "description": "The practice of using data analysis and statistical methods to identify business insights and make data-driven decisions.",
+      "tags": ["#data analysis", "#statistical methods", "#business insights", "#data-driven decisions"]
+    },
+      
+    "market risk management": {
+      "description": "The process of identifying, analyzing, and managing market risks for the markets arbitrage and/or portfolio hedging purposes for financial institutions.",
+      "tags": ["#market risks management", "#identifying", "#analyzing", "#financial goals"]
+    },
+
+    "optimization modeling": {
+      "description": "The process of creating and solving mathematical models minimizing/maximizing objective functions with or w.o contraints to iterate to the best solution.", 
+      "tags": ["#optimization modeling", "#mathematical models", "#best possible solution", "#problem"]
+    },
+    
+    "timeseries modelling": {
+        "description": "The practice of analyzing and predicting time series data by modeling trends, seasonality, autocorrelation, & temporal patterns including white noise reduction techniques.",
+        "tags": ["#time series data", "#trends", "#seasonality", "#autocorrelation", "#temporal patterns", "#white noise reduction", "#statistical techniques", "#future values"]
+    },  
+  
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+    "github/gitlab": {
+      "description": "Proficient in using github/gitlab for version control and collaboration.",
+      "tags": ["#github", "#gitlab", "#version control", "#collaboration"]
+    },
+
+    "azure": {
+      "description": "Cloud computing platform that provides a wide range of services, including computing, storage, databases, analytics, and machine learning.",
+      "tags": ["#azure", "#cloud computing", "#services", "#machine learning"]
+    },
+
+    "data_privacy": {
+      "description": "The protection of personal information from unauthorized access, use, disclosure, or destruction.",
+      "tags": ["#data privacy", "#protection", "#personal information", "#unauthorized access"]
+    },
+
+    "data_ethics": {
+      "description": "The moral principles and values that govern the collection, use, and dissemination of data.",
+      "tags": ["#data ethics", "#moral principles", "#values", "#dissemination"]
+    },
+
     "natural_language_processing": {
       "description": "A field of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages.",
       "tags": ["#natural language processing", "#computer science", "#artificial intelligence", "#human languages"]
@@ -59,54 +152,7 @@
       "description": "The process of collecting, storing, and managing data from different sources to provide meaningful business insights.",
       "tags": ["#data warehousing", "#collecting", "#storing", "#business insights"]
     },
-    "data_cleansing": {
-        "description": "Handling datasets duplicate & missing values, standardizing data, handling outliers, processing dtypes inconsistenies (e.g text processing) and white noise reduction in temporal.",
-        "tags": ["#data cleansing", "#identifying", "#correcting", "#inaccurate records"]
-    },
-    "data_modeling": {
-      "description": "The process of creating a conceptual representation of data and the relationships between data elements.",
-      "tags": ["#data modeling", "#conceptual representation", "#data elements", "#relationships"]
-    },
-    "data_integration": {
-      "description": "The process of combining data from different sources into a unified view to provide a complete picture of an organization's data.",
-      "tags": ["#data integration", "#combining", "#different sources", "#unified view"]
-    },
-    "data_engineering": {
-      "description": "The process of designing, building, and maintaining the systems and infrastructure that enable the storage, processing, and analysis of large amounts of data.",
-      "tags": ["#data engineering", "#designing", "#building", "#infrastructure"]
-    },
-    "data_migration": {
-      "description": "The process of transferring data from one system to another, while ensuring that the data remains accurate and consistent.",
-      "tags": ["#data migration", "#transferring", "#accurate", "#consistent"]
-    },
-    "data_privacy": {
-      "description": "The protection of personal information from unauthorized access, use, disclosure, or destruction.",
-      "tags": ["#data privacy", "#protection", "#personal information", "#unauthorized access"]
-    },
-    "data_ethics": {
-      "description": "The moral principles and values that govern the collection, use, and dissemination of data.",
-      "tags": ["#data ethics", "#moral principles", "#values", "#dissemination"]
-    },
-    "web_scraping": {
-        "description": "Proficient in web scraping techniques to extract data from websites and compliance with copyright laws..",
-        "tags": ["#web scraping", "#data extraction", "#data acquisition", "#legal compliance"]
-    },
-    "github/gitlab": {
-        "description": "Proficient in using github/gitlab for version control and collaboration.",
-        "tags": ["#github", "#gitlab", "#version control", "#collaboration"]
-    },
-    "azure": {
-      "description": "Cloud computing platform that provides a wide range of services, including computing, storage, databases, analytics, and machine learning.",
-      "tags": ["#azure", "#cloud computing", "#services", "#machine learning"]
-    },
-    "devops/project_management": {
-      "description": "A set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality.",
-      "tags": ["#devops", "#software development", "#IT operations", "#continuous delivery"]
-    },
-    "business analytics": {
-      "description": "The practice of using data analysis and statistical methods to identify business insights and make data-driven decisions.",
-      "tags": ["#data analysis", "#statistical methods", "#business insights", "#data-driven decisions"]
-    },
+
     "financial_analysis": {
       "description": "The process of evaluating businesses, projects, budgets, and other finance-related entities to determine their performance and suitability.",
       "tags": ["#financial analysis", "#evaluating", "#businesses", "#performance"]
@@ -115,26 +161,12 @@
       "description": "The risk of loss due to a borrower's failure to make payments on any type of debt.",
       "tags": ["#credit risk", "#borrower", "#debt", "#payments"]
     },
-    "market risk management": {
-      "description": "The process of identifying, analyzing, and managing market risks for the markets arbitrage and/or portfolio hedging purposes for financial institutions.",
-      "tags": ["#market risks management", "#identifying", "#analyzing", "#financial goals"]
-    },
-    "optimization modeling": {
-      "description": "The process of creating and solving mathematical models minimizing/maximizing objective functions with or w.o contraints to iterate to the best solution.", 
-      "tags": ["#optimization modeling", "#mathematical models", "#best possible solution", "#problem"]
-    },
+
     "simulation modeling": {
       "description": "The process of creating and analyzing a digital prototype of a physical model to predict its performance in the real world.",
       "tags": ["#simulation modeling", "#digital prototype", "#physical model", "#real world"]
     },
-    "predictive modelling": {
-      "description": "The process of using data mining and machine learning techniques to analyze historical data and make predictions about future events.",
-      "tags": ["#predictive modelling", "#data mining", "#machine learning", "#future events"]
-    },
-    "timeseries modelling": {
-        "description": "The practice of analyzing and predicting time series data by modeling trends, seasonality, autocorrelation, & temporal patterns including white noise reduction techniques.",
-        "tags": ["#time series data", "#trends", "#seasonality", "#autocorrelation", "#temporal patterns", "#white noise reduction", "#statistical techniques", "#future values"]
-    },
+
     "linear programming": {
       "description": "A mathematical technique for determining the optimal allocation of resources to achieve a specific objective.",
       "tags": ["#linear programming", "#mathematical technique", "#optimal allocation", "#specific objective"]
@@ -142,43 +174,53 @@
     "functional_programming": {
         "description": "A programming paradigm based on the concept of functions, which may take input, produce output, and be stored in variables.",
         "tags": ["#functional programming", "#programming paradigm", "#functions", "#input"]
-      },
+    },
+
     "object_oriented_programming": {
       "description": "A programming paradigm based on the concept of objects, which may contain data, in the form of fields, and code, in the form of procedures.",
       "tags": ["#object oriented programming", "#programming paradigm", "#objects", "#data"]
     },
+
     "neural_networks": {
       "description": "A set of algorithms modeled loosely after the human brain that are designed to recognize patterns.",
       "tags": ["#neural networks", "#algorithms", "#human brain", "#patterns"]
     },
+
     "supervised_learning": {
       "description": "A machine learning technique that uses labeled training data to predict future outcomes.",
       "tags": ["#supervised learning", "#machine learning", "#labeled training data", "#future outcomes"]
     },
+
     "unsupervised_learning": {
       "description": "A machine learning technique that uses unlabeled training data to find patterns in data.",
       "tags": ["#unsupervised learning", "#machine learning", "#unlabeled training data", "#patterns"]
     },
+
     "U/X Design": 
     { "description": "The process of designing digital products or features, such as websites, apps & tools in order to enhance user's satisfaction by improving products interactivity, usability & accessibility for better user's experience.",
      "tags": ["#U/X", "#user satisfaction", "#usability", "#accessibility", "#efficiency", "#interactivity"]
     },
+
     "Python": {
       "description": "Proficiency in Python programming language, commonly used for data analysis, machine learning, and web development.",
       "tags": ["#Python", "#data analysis", "#machine learning", "#web development"]
     },
+
     "R": {
       "description": "Proficiency in R programming language, commonly used for statistical computing, data analysis, and machine learning.",
       "tags": ["#R", "#statistical computing", "#data analysis", "#machine learning"]
     },
+
     "Matlab": {
       "description": "Proficiency in Matlab programming language, commonly used for numerical computing, data analysis, and scientific computing.",
       "tags": ["#Matlab", "#numerical computing", "#data analysis", "#scientific computing"]
     },
+
     "Java": {
       "description": "Proficiency in Java programming language, commonly used for enterprise software development, web development, and Android app development.",
       "tags": ["#Java", "#enterprise software development", "#web development", "#Android app development"]
     },
+
     "Git": {
       "description": "Familiarity with Git version control system, commonly used for software development and collaboration.",
       "tags": ["#Git", "#version control", "#software development", "#collaboration"]
@@ -187,26 +229,41 @@
       "description": "Proficiency in HTML markup language, commonly used for web development and creating web pages.",
       "tags": ["#HTML", "#web development", "#web pages"]
     },
+
     "LaTeX": {
       "description": "Proficiency in LaTeX markup language, commonly used for typesetting technical and scientific documents.",
       "tags": ["#LaTeX", "#typesetting", "#technical documents", "#scientific documents"]
     },
+
     "Shell": {
       "description": "Proficiency in shell scripting and command line interfaces, commonly used for automating tasks and manipulating files and directories.",
       "tags": ["#shell scripting", "#command line interface", "#automation", "#file manipulation"]
     },
-    "PyTorch": {
-      "description": "Experience with PyTorch, an open source machine learning framework that provides a flexible and efficient platform for deep learning.",
-      "tags": ["#PyTorch", "#machine learning", "#deep learning", "#open source"]
+
+    "CSharp": {
+      "description": "Proficiency in C# programming language, commonly used for game development, enterprise software development, and mobile development.",
+      "tags": ["#CSharp", "#game development", "#enterprise software development", "#mobile development"]
     },
-    "Keras": {
-      "description": "Experience with Keras, a high-level neural networks API written in Python that runs on top of TensorFlow, CNTK, or Theano.",
-      "tags": ["#Keras", "#neural networks", "#machine learning", "#Python"]
+
+    "PHP": {
+      "description": "Proficiency in PHP programming language, commonly used for web development and server-side scripting.",
+      "tags": ["#PHP", "#web development", "#server-side scripting"]
     },
-    "Streamlit": {
-      "description": "Experience with Streamlit, an open-source Python library that makes it easy to create and share custom web apps for machine learning and data science.",
-      "tags": ["#Streamlit", "#web application", "#machine learning", "#data science", "#open source"]
+
+    "CSS": {
+      "description": "Proficiency in CSS stylesheet language, commonly used for styling web pages.",
+      "tags": ["#CSS", "#web pages", "#styling"]
     },
+
+    "YAML": {
+      "description": "Proficiency in YAML markup language, commonly used for configuration files.",
+      "tags": ["#YAML", "#configuration files"]
+    },
+
+    "ML_Packages": {
+      "description": "Experience with PyTorch, Keras, TensorFlow, and Scikit-Learn, popular machine learning frameworks used for deep learning, neural networks, dataflow programming, and various classification, regression, and clustering algorithms.",
+      "tags": ["#PyTorch", "#Keras", "#TensorFlow", "#Scikit-Learn", "#machine learning", "#deep learning", "#neural networks", "#dataflow programming", "#classification", "#regression", "#clustering"]
+    }
   }
 
     
