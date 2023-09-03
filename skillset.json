@@ -1,0 +1,299 @@
+
+
+// grep -c '{' skills.json | tr -d '[:space:]' : 39 skills personally made, reviewed & licensed. 
+
+{
+    "data_science": {
+      "description": "Aptitude to use interdisciplinary technologies, algorithms, frameworks & cloud services to implement statistical methods and mathematical models from structured/unstructured data.",
+      "tags": ["#data", "#science", "#interdisciplinary", "#algorithms"]
+    },
+    
+    "data_analysis": {
+      "description": "Advocate on following structures on data that allow its inspection, cleaning, transforming & implementation of statistical/quantitative methods to obtain key insights for businesses decision-making processes.",
+      "tags": ["#data", "#analysis", "#modeling", "#decision-making"]
+    },
+
+    "business analytics": {
+      "description": "The practice of using data analysis and statistical methods to identify business insights and make data-driven decisions.",
+      "tags": ["#data analysis", "#statistical methods", "#business insights", "#data-driven decisions"]
+    },
+
+    "business_intelligence": {
+      "description": "Comepetence using / creating data analysis tools using statiscal/quantitative methods for its analysis and insights further presented through powerful interactive Data Visualizations tools.",
+      "tags": ["#business intelligence", "#data analysis", "#tools", "#decision-making"]
+    },
+
+    "big_data": {
+      "description": " Experience manipulating so I can generate CI/CD pipelines in order to structures data with feature engineering, let it be text or other data types and with millions of records.",
+      "tags": ["#big data", "#term", "#patterns", "#game theory"]
+    },
+
+    "machine_learning": {
+      "description": "Competence in the major branch of AI constantly automated & enhanced systems from CI/CD pipelines.",
+      "tags": ["#deep learning", "#neural networks", "#artificial intelligence", "#predictive modeling", "statistical learning"]
+    },
+
+    "data_mining": {
+      "description": "Aptitude to generate decisive pattern data constructs from big datasets being able to easily explain them with Data Visualization tools and for analytics and predictive modelling.",
+      "tags": ["#data mining", "#patterns", "#machine learning", "#database systems"]
+    },
+
+    "data_cleansing": {
+      "description": "Handling datasets duplicate & missing values, standardizing data, handling outliers, processing dtypes inconsistenies (e.g text processing) and white noise reduction in temporal.",
+      "tags": ["#data cleansing", "#identifying", "#correcting", "#inaccurate records"]
+    },
+
+    "data_modeling": {
+      "description": "Passionate about inquiring from abstraction processes, code that efficiently makes conceptual representations of the structures and its relation within variables using many programming languages/tools.",
+      "tags": ["#data modeling", "#abstraction", "#programming-languages", "#tools"]
+    },
+
+    "optimization modeling": {
+      "description": "Experienced Programming minimizing/maximizing objective functions with/without constraints in order for the algorithm to iterate to the best uni/multi-variate solutions.", 
+      "tags": ["#optimization modeling", "#mathematical models", "#scikit-learn", "#problem"]
+    },
+
+    "predictive_modeling": {
+      "description": "Adept programming CI/CD pipelines with frameworks and cloud/local hosting services to make uni/multivariate forecasts with continuously integrated prediction responses.",
+      "tags": ["#predictive modeling", "#data mining", "#machine learning", "#forecast"]
+    },
+
+    "timeseries modelling": {
+      "description": "Skilled analyzing and predicting time series data by modeling trends, seasonality, autocorrelation, & temporal patterns including white noise reduction techniques.",
+      "tags": ["#seasonality", "#trends", "#acf", "#white noise", "#temporal data", "forecasting", "pandas" "statsmodels", "prophet"]
+    },
+
+    "statistical_analysis": {
+      "description": "Inclination to use statistical methods & mathematical properties to further implement simulation techniques from distributions of data in order to make models consider probabilities through Stochastic/Quantitative methods in LateX->code.",
+      "tags": ["#statistical analysis", "#statistics", "#stochastic calculus", "#quantitative methods", "#data", "#informed decisions"]
+    },
+
+    "artificial_intelligence": {
+      "description": "Passionate about datawarehousing to execute ingrained task-executions in embedded systems without explicitly being programmed to do so.",
+      "tags": ["#data-capabilities", "#cloud hosting services", "#datewarehousing", "#CI/CD", "#embedded systems"]
+    },
+
+    "deep learning": {
+      "description": "Competent in the theory and practice of deep learning, including neural network architectures such as CNNs, RNNs, GANs, and LSTM, as well as optimization algorithms and regularization techniques. Skilled in using deep learning frameworks such as TensorFlow, Keras, and PyTorch to build and train deep neural networks for a variety of tasks, including image recognition, natural language processing, and time series forecasting.",
+      "keywords": ["neural networks", "deep neural networks", "convolutional neural networks", "recurrent neural networks", "LSTM", "autoencoders", "GANs", "DBNs", "Siamese networks", "Capsule networks", "TensorFlow", "Keras", "PyTorch", "image recognition", "natural language processing", "time series forecasting"]
+    },
+
+    "neural_networks": {
+      "description": "Experienced programming Artificial Neural Networks, including the mahematical processes for activation/loss functions, determining layers & weigts while preventing overfitting. Also adept evaluating a model's effectiveness from all perspectives including generating a confussion matrix and determining the model's accuracy, precision, recall, F1 scores, ROC curves, AUC, etc.",
+      "tags": ["#deep learning", "#metrics", "neurons", "layers", "weights", "#neural networks", "#activation functions", "#loss functions", "#overfitting", "#confussion matrix", "#accuracy", "#precision", "#recall", "#F1 scores", "#ROC curves", "#AUC"]
+    },
+    
+    "data_visualization": {
+      "description": "Proficiency using the most updated data visualization interactive pkgs & dashboard tools being also adept at the wide-range of plot-types and which are best fit for insights delivery. Expertise using packages like Matplotlib, Seaborn, Plotly, ggplot, or Frameworks like Streamlit & Dash or software like Advanced Excel, Tableau & PowerBI.", 
+      "tags": ["#data visualization", "#representation", "#graphical", "#decision-makers"]
+    },
+
+    "tableau": {
+      "description": "Developing skills that allow me get the certification in an estimated of a few more months using this powerful Data Visualization software that provides a wide-range of interactive capabilities like real-time collaborations in dashboards.",
+      "tags": ["#dashboards", "#data visualization", "#enhanced-interactivity", "#real_time-collaborations", "#certification"]
+    },
+
+    "natural_language_processing": {
+      "description": "Subset of AI within ML that involve powerful algorithms that process human interaction in data preprocessing text/speech, sentiment's analysis, & supervised / unsupervised classification.",
+      "tags": ["#natural language processing", "#computer science", "#artificial intelligence", "#human languages"]
+    },
+    
+    "supervised_learning": {
+      "description": "Professional experience for government's institution classifying public interest categorical data satellite imagery with (pixels) features dimensionality reduction for the further data training and testing.",
+      "tags": ["#supervised classification", "#machine learning", "#categorical data", "#GIS", "satellite imagery"]
+    },
+    
+    "unsupervised_learning": {
+      "description": "Machine learning algorithms for non categorical data such continuous variables for their further training and testing generally used for anomaly detection, dimensionality reduction and/or clustering algorithms.",   
+      "tags": ["#unsupervised learning", "#machine learning", "#unlabeled training data", "#patterns"]
+    },
+
+    "CI/CD": {
+      "description": "Continuous integration and deployment through different cloud hosting services to automate the process of building & testing software features.",
+      "tags": ["#deployment", "#integration", "#feature branching", "#team-collaborations", "continuous automation"]
+    },
+
+    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    "data_engineering": {
+      "description": "The process of designing, building, and maintaining the systems and infrastructure that enable the storage, processing, and analysis of large amounts of data.",
+      "tags": ["#data engineering", "#designing", "#building", "#infrastructure"]
+    },
+
+    "data_migration": {
+      "description": "The process of transferring data from one system to another, while ensuring that the data remains accurate and consistent.",
+      "tags": ["#data migration", "#transferring", "#accurate", "#consistent"]
+    },
+
+    "web_scraping": {
+        "description": "Proficient in web scraping techniques to extract data from websites and compliance with copyright laws..",
+        "tags": ["#web scraping", "#data extraction", "#data acquisition", "#legal compliance"]
+    },
+
+    "devops/project_management": {
+      "description": "A set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality.",
+      "tags": ["#devops", "#software development", "#IT operations", "#continuous delivery"]
+    },
+      
+    "market risk management": {
+      "description": "The process of identifying, analyzing, and managing market risks for the markets arbitrage and/or portfolio hedging purposes for financial institutions.",
+      "tags": ["#market risks management", "#identifying", "#analyzing", "#financial goals"]
+    },
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    "credit_risk": {
+      "description": "The risk of loss due to a borrower's failure to make payments on any type of debt.",
+      "tags": ["#credit risk", "#borrower", "#debt", "#payments"]
+    },
+
+    "simulation modeling": {
+      "description": "The process of creating and analyzing a digital prototype of a physical model to predict its performance in the real world.",
+      "tags": ["#simulation modeling", "#digital prototype", "#physical model", "#real world"]
+    },
+
+    "linear programming": {
+      "description": "A mathematical technique for determining the optimal allocation of resources to achieve a specific objective.",
+      "tags": ["#linear programming", "#mathematical technique", "#optimal allocation", "#specific objective"]
+    },
+
+    "functional_programming": {
+        "description": "A programming paradigm based on the concept of functions, which may take input, produce output, and be stored in variables.",
+        "tags": ["#functional programming", "#programming paradigm", "#functions", "#input"]
+    },
+
+    "object_oriented_programming": {
+      "description": "A programming paradigm based on the concept of objects, which may contain data, in the form of fields, and code, in the form of procedures.",
+      "tags": ["#object oriented programming", "#programming paradigm", "#objects", "#data"]
+    },
+
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    "Git": {
+      "description": "Git versioning control mastery and more than a half decade of CLI & shell scripting experience to have full control of systems resources & ensure team collaborations.",
+      "tags": ["#Git", "#version control", "#scripting", "shell-linux", "#team-collaboration", "communication"]
+    },
+
+    "github/gitlab": {
+      "description": "Expertise configuring CI/CD pipelines through Github, Gitlab, Azure, Bitbucket and other public/private web hosting services with git & understanding of other less required team-collaboration languages.", 
+      "tags": ["#version control", "web hosting", "collaborations", "github", "azure", "gitlab", "bitbucket", "gitkraken"]
+    },
+
+    "azure": {
+      "description": "Advocate of cloud hosting services & existing world-wide third-party apps/services to config. public/private CI/CD pipelines using features branches with copyright disclaimers.",
+      "tags": ["#machine learning", "#cloud computing", "#integration", "pipelines CI/CD", "#data warehousing"]
+    },
+
+    "data_privacy": {
+      "description": "Competence researching and implementing legal measures & disclaimers for to use cloud hosting services securely in order to ensure personal data copyrights & valuable data extraction methods in accordance with applicable laws.",
+      "tags": ["#data privacy", "#protection", "#personal information", "#unauthorized access"]
+    },
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  
+    "ML_Pkgs": {
+      "description": "Skilled of with PyTorch, Keras, TensorFlow, and Scikit-Learn, popular machine learning frameworks used for deep learning, neural networks, dataflow programming, and various classification, regression, and clustering algorithms.",
+      "tags": ["#PyTorch", "#Keras", "#TensorFlow", "#Scikit-Learn", "#machine learning", "#deep learning", "#neural networks", "#dataflow programming", "#classification", "#regression", "#clustering"]
+    },
+
+    "Python": {
+      "description": "Proficiency in Python programming language, commonly used for data analysis, machine learning, and web development.",
+      "tags": ["#Python", "#data analysis", "#machine learning", "#web development"]
+    },
+
+    "R": {
+      "description": "Proficiency in R programming language, commonly used for statistical computing, data analysis, and machine learning.",
+      "tags": ["#R", "#statistical computing", "#data analysis", "#machine learning"]
+    },
+
+    "HTML": {
+      "description": "Proficiency in HTML markup language, commonly used for web development and creating web pages.",
+      "tags": ["#HTML", "#web development", "#web pages"]
+    },
+
+    "LaTeX": {
+      "description": "Proficiency in LaTeX markup language, commonly used for typesetting technical and scientific documents.",
+      "tags": ["#LaTeX", "#typesetting", "#technical documents", "#scientific documents"]
+    },
+
+    "Shell": {
+      "description": "Proficiency in shell scripting and command line interfaces, commonly used for automating tasks and manipulating files and directories.",
+      "tags": ["#shell scripting", "#command line interface", "#automation", "#file manipulation"]
+    },
+
+    "Matlab": {
+      "description": "Proficiency in Matlab programming language, commonly used for numerical computing, data analysis, and scientific computing.",
+      "tags": ["#Matlab", "#numerical computing", "#data analysis", "#scientific computing"]
+    },
+
+    "Java": {
+      "description": "Proficiency in Java programming language, commonly used for enterprise software development, web development, and Android app development.",
+      "tags": ["#Java", "#enterprise software development", "#web development", "#Android app development"]
+    },
+
+    "U/X Design": {
+      "description": "The process of designing digital products or features, such as websites, apps & tools in order to enhance user's satisfaction by improving products interactivity, usability & accessibility for better user's experience.",
+      "tags": ["#U/X", "#user satisfaction", "#usability", "#accessibility", "#efficiency", "#interactivity"]
+    },
+
+    "CSharp": {
+      "description": "Proficiency in C# programming language, commonly used for game development, enterprise software development, and mobile development.",
+      "tags": ["#CSharp", "#game development", "#enterprise software development", "#mobile development"]
+    },
+
+    "PHP": {
+      "description": "Proficiency in PHP programming language, commonly used for web development and server-side scripting.",
+      "tags": ["#PHP", "#web development", "#server-side scripting"]
+    },
+
+    "CSS": {
+      "description": "Proficiency in CSS stylesheet language, commonly used for styling web pages.",
+      "tags": ["#CSS", "#web pages", "#styling"]
+    },
+
+    "YAML": {
+      "description": "Proficiency in YAML markup language, commonly used for configuration files.",
+      "tags": ["#YAML", "#configuration files"]
+    },
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    // "data_warehousing": {
+    //   "description": "The process of collecting, storing, and managing data from different sources to provide meaningful business insights.",
+    //   "tags": ["#data warehousing", "#collecting", "#storing", "#business insights"]
+    // },
+
+    // "data_ethics": {
+    //   "description": "The moral principles and values that govern the collection, use, and dissemination of data.",
+    //   "tags": ["#data ethics", "#moral principles", "#values", "#dissemination"]
+    // },
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
