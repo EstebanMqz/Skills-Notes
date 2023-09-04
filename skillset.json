@@ -1,8 +1,5 @@
 
-
-// grep -c '{' skillset.json | tr -d '[:space:]' : 37 skills tagged/reviewed. 
-
-{
+    {
     "data_science": {
       "description": "Aptitude using a wide-range of interdisciplinary technologies, algorithms, frameworks & web services in order to implement complex mathematical & statistical models with structured/unstructured data to have it processed for businesses.",
       "tags": ["#Data", "Data-mining", "AI", "ML", "Statistical Models", "Business-Insights", "Predictive Analytics"]
@@ -139,7 +136,7 @@
     },
 
     "simulation modeling": {
-      "description": "Used to develop mathematical process practically to elaborate simulation models by determining the distribution of data & model them to detail in order to analyze being able to predict data with limited entries with unreal precision.",
+      "description": "Used to develop mathematical processes/models practically & determining the distribution of data in order to model it for predictive purposes with limited entries with a great level of precision.",
       "tags": ["#Probabilities", "Statistics", "#Stochastics", "#Quantitative-methods", "Data-Distributions", "Continuous-Random-Variables", "Discrete-Random-Variables", "#Statistical-programming", "Data-Modelling"]
     },
 
@@ -149,38 +146,105 @@
     },
 
     "Functional_programming": {
-        "description": "Expert using the programming paradigm efficiently/effectively enabling code reusability, readability, consistency and modularity is enabled to make data accesible for myself as well as for my team/organization.",
+        "description": "Expert using the programming paradigm efficiently to enable code reusability, readability, consistency / modularity to make data easily accesible by myself in the future or for my team/organization.",
         "tags": ["#Immutability", "#Lambda-Functions", "Global/local functions", "#Code-Reusability", "#Recursion", "Simplicity"]
     },
 
     "object_oriented_programming": {
-      "description": "Experienced using the programming paradigm based on objects that may contain data as field, code or procedures.",
-      "tags": ["#Object oriented programming", "#Objects", "#Data-inmutability", "Modular-programming", "#Readability", "#Reusability"]
+      "description": "Experienced config. object programming paradigm in order to store data, code / procedures.",
+      "tags": ["#Object-oriented-programming", "#Objects", "#Data-inmutability", "Modular-programming", "#Readability", "#Reusability"]
     },
 
     "Git": {
-      "description": "Git versioning control mastery and more than a half decade of CLI & shell scripting experience to have full control of systems resources & ensure team collaborations.",
-      "tags": ["#Git", "#version control", "#scripting", "shell-linux", "#team-collaboration", "communication"]
+      "description": "Git versioning control shell scripting expertise that allow me to have full control of a system's resources in order to ensure team collaborations.",
+      "tags": ["#Git", "#Version control", "#Scripting", "Shell-linux", "#Team-collaboration", "Communication"]
     },
 
     "Github/Gitlab": {
       "description": "High-level of expertise configuring CI/CD pipelines using public/private cloud hosting services like Github, Gitlab, Azure, Bitbucket with git & knowledge of other team-collaboration such as Subversion.", 
-      "tags": ["#version control", "web hosting", "collaborations", "github", "azure", "gitlab", "bitbucket", "gitkraken"]
+      "tags": ["#Version control", "Web-hosting", "Collaborations", "Github", "Azure", "Gitlab", "Bitbucket", "Gitkraken"]
     },
 
     "Azure-devops": {
-      "description": "Advocate of cloud hosting services & existing world-wide third-party apps/services to config. public/private CI/CD pipelines using features branches with copyright disclaimers.",
-      "tags": ["#machine learning", "#cloud computing", "#integration", "pipelines CI/CD", "#data warehousing"]
+      "description": "Advocate of researching and using cloud hosting services & parts of already existing third-party apps/services according to their usage disclaimers for the further config. of personal public/private CI/CD pipelines through feature branching.",
+      "tags": ["#Machine learning", "#Cloud computing", "#Integration", "CI/CD Pipelines", "#Data-warehousing"]
     },
 
     "Data_Privacy": {
-      "description": "Competence researching and implementing legal measures & disclaimers for to use cloud hosting services securely in order to ensure personal data copyrights & valuable data extraction methods in accordance with applicable laws.",
-      "tags": ["#data privacy", "#protection", "#personal information", "#unauthorized access"]
+      "description": "Inclination for researching/implementing legal measures & disclaimers when using cloud-hosting services securely in order to ensure personal data copyrights & valuable data extraction methods according to applicable laws.",
+      "tags": ["#Data privacy", "#Protection", "#Personal-Information", "#Unauthorized-Access"]
     },
 
-    ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-  
+    "data_ethics": {
+      "description": "Moral principles/values to discern the ethical data collection, usage and dissemination according to its legal compliance.",
+      "tags": ["Principles", "#Ethics", "Values", "#Dissemination", "LICENSES", "Disclaimers", "Privacy-Laws"]
+    },
 
+    "Python": {
+      "description": "Proficient using Python integrated with a wide-range of programmming languages such as shell/git/php/csharp/javascript/html and in their execution within Python code for terminal scriptings.",
+      "tags": ["#Python", "#data analysis", "#machine learning", "#web development"]
+    },
+
+    "R": {
+      "description": "Talented using R to develop statistical models more effectively while being able to implement code/models language and files translation.",
+      "tags": ["#R", "#statistical computing", "#data analysis", "#machine learning"]
+    },
+
+    "HTML": {
+      "description": "Preference for the usage of HTML markup language for web development and CI/CD procesesses through cloud-hosting services.",
+      "tags": ["#HTML", "#Cloud-hosting", "#Web-pages", "Azure", "Github/Gitlab", "Bitbucket", "Google-Colab"]
+    },
+
+    "LaTeX": {
+      "description": "Vast expertise using LaTeX to reference most of my insights/models scientifically while intending insights and conclusions for a non technical audience for simplicity, readability & data visualization purposes.",
+      "tags": ["#LaTeX", "#Mathematical-Expressions", "Statistical-Modellling", "Markup-Language", "Hyperlinks", "Bibliography/References"]
+    },
+
+    "Shell": {
+      "description": "Expertise using PowerShell/Git/Linux CLI & developing scripts to interact directly with systems resources effectively in communication with local/remote branches for continuous integration and deployment of data.",
+      "tags": ["#Shell scripting", "#Command-line-interface", "#Automation", "#File-manipulation"]
+    },
+
+    "Matlab": {
+      "description": "Aptitude coding .using a wide variety of financial, optimization, deep learning Matlab toolboxes.",
+      "tags": ["#Matlab", "#numerical computing", "#data analysis", "#scientific computing"]
+    },
+
+    "Javascript": {
+      "description": "Experience using important tool & programming lagnauge for UX/UI designs for web development on the client-side to enhance user's interactivity.",
+      "tags": ["#Java", "#enterprise software development", "#web development", "#Android app development"]
+    },
+
+    "U/X Design": {
+      "description": "The process of designing digital products or add to them features, intended for the public through websites, apps & tools which also tends to increase customer satisfaction through the enhancement of system's interactivity, usability & accessibility for a better user's experience.",
+      "tags": ["#U/X", "#user satisfaction", "#usability", "#accessibility", "#efficiency", "#interactivity"]
+    },
+
+    "CSharp": {
+      "description": "Proficiency using CSharp to make Windows-Apps & in conjunction with other languages/tools such as power automate interacting with each other such as Javascript, Python, php, html, css & other frameworks like React, Node.js & .NET for the further development of Web apps back/frontends.",
+      "tags": ["#CSharp", "#App-development", "#Windows", "php", ".NET", "Javascript", "#HTML", "#CSS"]
+    },
+
+    "PHP": {
+      "description": "Proficiency server-side scripting with PHP enabling websites to interact dynamically with with databases / web services.", 
+      "tags": ["#PHP", "#web-development", "#server-side scripting", "HTML", "CSS", "Javascript"]
+    },
+
+    "CSS": {
+      "description": "Inclined towards making enough CSS objects decently style web pages &/or as well as to strenghthen Data Visualization processes.",
+      "tags": ["#Layout", "#Web-pages", "#Animations", "CSSGrid", "Objects"]
+    },
+
+    "YAML": {
+      "description": "Proficiency using YAML markup language for the projects config. using github-actions .",
+      "tags": ["#config.", "#Actions", "#Objects", "Anchors", "CI/CD"]
+    }
+  }
+
+
+
+  
+  
 
 
     
