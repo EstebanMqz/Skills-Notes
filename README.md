@@ -10,7 +10,7 @@ Description:
 <div style="font-size: 12px;">Besides from my skills through my strong <u>Statistical background</u> & experience implementing a variety of <u>DS/ML Algorithms</u> with different <u>programming languages</u> and tools, my commitment will ensure <u>CI/CD</u> pipelines reliability and <u>maintainability</u> while also being able to help team members in order to ensure <u>collaborations</u>, including the fact that my <u>curiosity</u> will always keep me <u>updated</u> in newer and better technologies.</b>
 
   
-## 1. data_science
+## 1. Data_science
 
 Aptitude using a wide-range of interdisciplinary technologies, algorithms, frameworks & web services in order to implement complex mathematical & statistical models with structured/unstructured data to have it processed for businesses.
 
@@ -23,7 +23,7 @@ Aptitude using a wide-range of interdisciplinary technologies, algorithms, frame
   -  Business-Insights
   -  Predictive Analytics
 
-## 2. Power Bi
+## 2. Power_Bi
   
 Currently working on obtaining the Power BI certification to opt for greater simplicity at the moment of developing dashboards & storytelling Data Visualizations reports developing expertise in other useful Microsoft Apps that empower businesses such as Power Automate & Power Apps.
 
@@ -35,7 +35,7 @@ Currently working on obtaining the Power BI certification to opt for greater sim
 -  Power-Automate
 -  Power-Apps
 
-## 3. data_analysis
+## 3. Data_analysis
 
 Advocate of following structured methods to process data, allowing me to make data cleansing & transformations to understand it fully while being able to uncover hidden patterns.
 
@@ -45,7 +45,7 @@ Advocate of following structured methods to process data, allowing me to make da
   -  Decision-making
   -  Data-cleansing
 
-## 4. business analytics
+## 4. Business_analytics
 
 High level of comepetence using a wide range of data analysis tools & statistical models to identify, extract & construct relevant business insights and their relation with variables of interest to enable making business data-driven decisions.
 
@@ -55,7 +55,7 @@ High level of comepetence using a wide range of data analysis tools & statistica
   -  Statistical-methods
   -  Data-driven decisions
 
-## 5. business_intelligence
+## 5. Business_intelligence
 
 Skilled implementing, reviewing & correcting statiscal/quantitative models to ensure the usage libraries modules & software tools to confidently explain and provide the business insights using powerful Data Visualization interactive tools.
 
@@ -66,7 +66,7 @@ Skilled implementing, reviewing & correcting statiscal/quantitative models to en
   -  Tableau
   -  Advanced Excel
 
-## 6. big_data
+## 6. Big_data
 
 Experience manipulating large datasets that contain millions of records to effectively automate CI/CD pipelines locally including feature engineering.
 
@@ -77,7 +77,7 @@ Experience manipulating large datasets that contain millions of records to effec
   -  SQL
   -  Data-Mining
 
-## 7. machine_learning
+## 7. Machine_learning
 
 Competence in major branch of AI for classification, clustering, optimization, forecasting processes using CI/CD pipelines.
 
@@ -89,7 +89,7 @@ Competence in major branch of AI for classification, clustering, optimization, f
   -  Time-series modelling
   -  Predictive-modelling
 
-## 8. data_cleansing
+## 8. Data_cleansing
 
 Handling datasets duplicate & missing values, standardizing data, handling outliers and processing dtypes (e.g text-processing NLP/NTLK) & white noise reduction for temporal data.
 
@@ -99,7 +99,7 @@ Handling datasets duplicate & missing values, standardizing data, handling outli
   -  Standarization
   -  DQR
 
-## 9. data_modeling
+## 9. Data_modeling
 
 Passionate about automating abstraction processes through code to efficiently/repetitively make conceptual representations from hidden structures & patterns to make relationships using a variety of programming languages/tools.
 
@@ -109,7 +109,7 @@ Passionate about automating abstraction processes through code to efficiently/re
   -  Programming-languages
   -  Software
 
-## 10.  optimization modeling
+## 10. Optimization_modeling
 
 Experienced Programming minimizing/maximizing objective functions with/without constraints in order for the algorithm to iterate to the best uni/multi-variate solutions.
 
@@ -121,7 +121,7 @@ Experienced Programming minimizing/maximizing objective functions with/without c
   -  ConvexOptimization
   -  Scikit-learn
 
-## 11.  predictive_modeling
+## 11. Predictive_modeling
 
 Adept programming CI/CD pipelines with tools/frameworks & cloud/local hosting services to make uni/multivariate forecasts with continuously integrated prediction responses.
 
@@ -131,7 +131,7 @@ Adept programming CI/CD pipelines with tools/frameworks & cloud/local hosting se
   -  Machine-learning
   -  Forecast
 
-## 12.  timeseries modelling
+## 12. Timeseries_modelling
 
 Skilled implementing white noise reduction techniques, modeling trends, seasonality, autocorrelation as well as the analysis of other temporal patterns on time-series for predictive purposes.
 
@@ -145,7 +145,7 @@ Skilled implementing white noise reduction techniques, modeling trends, seasonal
   -  Pandas
   -  Numpy
 
-## 13.  statistical_analysis
+## 13. Statistical_analysis
 
 Inclination to use statistical methods & mathematical properties to further implement simulation techniques from distributions of data in order to make models consider probabilities through Stochastic/Quantitative methods in LateX.
 
@@ -155,7 +155,7 @@ Inclination to use statistical methods & mathematical properties to further impl
   -  Statistical-learning
   -  Probabilistic-approach
 
-## 14.  artificial_intelligence
+## 14. Artificial_intelligence
 
 Passionate implementing ingrained task-executions in embedded systems without explicitly being programmed to do so.
 
@@ -166,12 +166,12 @@ Passionate implementing ingrained task-executions in embedded systems without ex
   -  CI/CD
   -  Embedded systems
 
-## 15.  deep learning
+## 15. Deep_learning
 
 Competent in the theory and practice of deep learning, including neural network architectures such as CNNs, RNNs, GANs, and LSTM, as well as optimization algorithms and regularization techniques. Experience  using Deep Learning Frameworks such as TensorFlow, PyTorch & Neural Network/Deep Learning Toolbox.
 
 
-## 16. neural_networks
+## 16. Neural_networks
 
 Experienced programming NN, including mathematically proposing their Activation/Loss functions, Layers & Weigts, preventing under/overfitting while determining and interpreting effectively the model's metrics & tools such as Confussion Matrix, Accuracy, Precision, Recall, F1 scores, ROC & AUC, RMSE, MAE, MSE, MAPE, etc.
 
@@ -190,7 +190,7 @@ Experienced programming NN, including mathematically proposing their Activation/
   -  ROC curves
   -  AUC
 
-## 17.  data_visualization
+## 17. Data_visualization
 
 Proficiency using the most updated Data Visualization Libraries & Dashboard-tools (Matplotlib, Seaborn, Plotly-Dash, ggplot, Streamlit, Advanced Excel, PowerBI, Tableau & others). Expertise most existing Plot-types for business-insights storytelling.
 
@@ -200,7 +200,7 @@ Proficiency using the most updated Data Visualization Libraries & Dashboard-tool
   -  Interactivity
   -  UX/UI-Design
 
-## 18.  tableau
+## 18. Tableau
 
 Working on certifying as a Tableau Desktop Specialist be able to provide professionaly the powerful Data Visualization software / real-time collaborations through interactive dashboards including a wide-range of customizations.
 
@@ -211,7 +211,7 @@ Working on certifying as a Tableau Desktop Specialist be able to provide profess
   -  Tableau Desktop Specialist
   -  Online-Server
 
-## 19.  natural_language_processing
+## 19. Natural_language_processing
 
 Experienced implementing the subset of AI within ML that includes powerful algorithms to preprocess text/speech, sentiment's analysis and Supervised/Unsupervised learning algorithms.
 
@@ -222,7 +222,7 @@ Experienced implementing the subset of AI within ML that includes powerful algor
   -  Sentiment-Analysis
   -  Speech-Recognition
 
-## 20.  supervised_learning
+## 20. Supervised_learning
 
 Proficiency implementing a variety of classification algorithms on categorical data such as random forest, SVMs, linear/logistic regressions, decision trees, etc. GIS Professional experience remote sensing Natural Protected Areas of pressure with PCA/Image_Differences algorithms.
 
@@ -234,7 +234,7 @@ Proficiency implementing a variety of classification algorithms on categorical d
   -  GIS
   -  Satellite-imagery
 
-## 21.  unsupervised_learning
+## 21. Unsupervised_learning
 
 Experienced implementing a wide-rannge of Machine-Learning algorithms on non categorical data including training & testing models for anomaly detection, dimensionality reduction, clustering algorithms, etc..
 
@@ -245,7 +245,7 @@ Experienced implementing a wide-rannge of Machine-Learning algorithms on non cat
   -  Training-testing
   -  Patterns
 
-## 22.  CI/CD
+## 22. CI/CD
 
 Used to implement CI/CD processes with a variety of web hosting services to automate the process of building & testing features.
 
@@ -256,7 +256,7 @@ Used to implement CI/CD processes with a variety of web hosting services to auto
   -  Team-collaborations
   -  Continuous automation
 
-## 23.  data_engineering
+## 23. Data_engineering
 
 Fixed using extraction/collection methods to use a wide-range of Data Science/Analytics/Machine Learning techniques implementing ETL effectively and data-management cloud hosting services to maintain CI/CD pipelines.
 
@@ -266,7 +266,7 @@ Fixed using extraction/collection methods to use a wide-range of Data Science/An
   -  Data-Architecture
   -  Data-Warehousing
 
-## 24.  data_migration
+## 24. Data_migration
 
 Skilled using and enabling automated virtual working environment for teams to ensure collaboration and increase reliability including my own, being able to personally setup my working environments anywhere.
 
@@ -280,7 +280,7 @@ Skilled using and enabling automated virtual working environment for teams to en
   -  Functionality
   -  Modularity
 
-## 25.  web_scraping
+## 25. Web_scraping
 
 High-level of proficciency using cloud data extraction methods such as .git & .html to the extent of creating complex scripting programs with them & a variety of programming languages in compliance with applicable laws.
 
@@ -293,7 +293,7 @@ High-level of proficciency using cloud data extraction methods such as .git & .h
   -  LICENSE
   -  Privacy-Rights
 
-## 26.  devops/project_management
+## 26. Devops/project_management
 
 Adept ensuring healthy devops & IT practices to guarantee CI/CD pipelines are maintained while also being used handling project's management to ensure collaborations.
 
@@ -305,7 +305,7 @@ Adept ensuring healthy devops & IT practices to guarantee CI/CD pipelines are ma
   -  Collaborations
   -  Team-management
 
-## 27.  market_risk_management
+## 27. Market_risk_management
 
 Experienced managing market risks for arbitrage / portfolio hedging / capital management purposes to help institutions/individuals achieve their financial goals or provide investment services effectively.
 
@@ -318,7 +318,7 @@ Experienced managing market risks for arbitrage / portfolio hedging / capital ma
   -  Simulations
   -  Forecast
 
-## 28.  credit_risk
+## 28. Credit_risk
 
 Strong background in Statistics & Mathematics that allow me to manage & understand interest rates to detail to effectively manage default's risk for financial institutions while also being able to predict eligibility of loans.
 
@@ -328,7 +328,7 @@ Strong background in Statistics & Mathematics that allow me to manage & understa
   -  Credit-Scoring
   -  Default-Predictions
 
-## 29.  simulation modeling
+## 29. Simulation_modeling
 
 Used to develop mathematical processes/models practically & determining the distribution of data in order to model it for predictive purposes with limited entries with a great level of precision.
 
@@ -344,7 +344,7 @@ Used to develop mathematical processes/models practically & determining the dist
   -  Statistical-programming
   -  Data-Modelling
 
-## 30. Linear programming
+## 30. Linear_programming
 
 High level of expertise modelling optimization algorithms to achieve the best solutions including a big number of variables processed.
 
@@ -356,7 +356,7 @@ High level of expertise modelling optimization algorithms to achieve the best so
   -  Objective-Functions
   -  Constraints
 
-## 31.  Functional_programming
+## 31. Functional_programming
 
 Expert using the programming paradigm efficiently to enable code reusability, readability, consistency / modularity to make data easily accesible by myself in the future or for my team/organization.
 
@@ -368,7 +368,7 @@ Expert using the programming paradigm efficiently to enable code reusability, re
   -  Recursion
   -  Simplicity
 
-## 32.  object_oriented_programming
+## 32. Object_oriented_programming
 
 Experienced config. object programming paradigm in order to store data, code / procedures.
 
@@ -380,7 +380,7 @@ Experienced config. object programming paradigm in order to store data, code / p
   -  Readability
   -  Reusability
 
-## 33.  Git
+## 33. Git
 
 Git versioning control shell scripting expertise that allow me to have full control of a system's resources in order to ensure team collaborations.
 
@@ -392,7 +392,7 @@ Git versioning control shell scripting expertise that allow me to have full cont
   -  Team-collaboration
   -  Communication
 
-## 34.  Github/Gitlab
+## 34. Github/Gitlab
 
 High-level of expertise configuring CI/CD pipelines using public/private cloud hosting services like Github, Gitlab, Azure, Bitbucket with git & knowledge of other team-collaboration such as Subversion.
 
@@ -406,7 +406,7 @@ High-level of expertise configuring CI/CD pipelines using public/private cloud h
   -  Bitbucket
   -  Gitkraken
 
-## 35.  Azure-devops
+## 35. Azure-devops
 
 Advocate of researching and using cloud hosting services & parts of already existing third-party apps/services according to their usage disclaimers for the further config. of personal public/private CI/CD pipelines through feature branching.
 
@@ -417,7 +417,7 @@ Advocate of researching and using cloud hosting services & parts of already exis
   -  CI/CD Pipelines
   -  Data-warehousing
 
-## 36.  Data_Privacy
+## 36. Data_Privacy
 
 Inclination for researching/implementing legal measures & disclaimers when using cloud-hosting services securely in order to ensure personal data copyrights & valuable data extraction methods according to applicable laws.
 
@@ -427,7 +427,7 @@ Inclination for researching/implementing legal measures & disclaimers when using
   -  Personal-Information
   -  Unauthorized-Access
 
-## 37.  data_ethics
+## 37. Data_ethics
 
 Moral principles/values to discern the ethical data collection, usage and dissemination according to its legal compliance.
 
@@ -440,7 +440,7 @@ Moral principles/values to discern the ethical data collection, usage and dissem
   -  Disclaimers
   -  Privacy-Laws
 
-## 38.  Python
+## 38. Python
 
 Proficient using Python integrated with a wide-range of programmming languages such as shell/git/php/csharp/javascript/html and in their execution within Python code for terminal scriptings.
 
@@ -450,7 +450,7 @@ Proficient using Python integrated with a wide-range of programmming languages s
   -  machine learning
   -  web development
 
-## 39.  R
+## 39. R
 
 Talented using R to develop statistical models more effectively while being able to implement code/models language and files translation.
 
@@ -460,7 +460,7 @@ Talented using R to develop statistical models more effectively while being able
   -  data analysis
   -  machine learning
 
-## 40.  HTML
+## 40. HTML
 
 Preference for the usage of HTML markup language for web development and CI/CD procesesses through cloud-hosting services.
 
@@ -473,7 +473,7 @@ Preference for the usage of HTML markup language for web development and CI/CD p
   -  Bitbucket
   -  Google-Colab
 
-## 41.  LaTeX
+## 41. LaTeX
 
 Vast expertise using LaTeX to reference most of my insights/models scientifically while intending insights and conclusions for a non technical audience for simplicity, readability & data visualization purposes.
 
@@ -485,7 +485,7 @@ Vast expertise using LaTeX to reference most of my insights/models scientificall
   -  Hyperlinks
   -  Bibliography/References
 
-## 42.  Shell
+## 42. Shell
 
 Expertise using PowerShell/Git/Linux CLI & developing scripts to interact directly with systems resources effectively in communication with local/remote branches for continuous integration and deployment of data.
 
@@ -495,7 +495,7 @@ Expertise using PowerShell/Git/Linux CLI & developing scripts to interact direct
   -  Automation
   -  File-manipulation
 
-## 43.  Matlab
+## 43. Matlab
 
 Aptitude coding .using a wide variety of financial, optimization, deep learning Matlab toolboxes.
 
@@ -505,7 +505,7 @@ Aptitude coding .using a wide variety of financial, optimization, deep learning 
   -  data analysis
   -  scientific computing
 
-## 44.  Javascript
+## 44. Javascript
 
 Experience using important tool & programming lagnauge for UX/UI designs for web development on the client-side to enhance user's interactivity.
 
@@ -515,7 +515,7 @@ Experience using important tool & programming lagnauge for UX/UI designs for web
   -  web development
   -  Android app development
 
-## 45.  Markdown
+## 45. Markdown
 
 Highly experienced using Markdown for creating formatted text documents. I have used Markdown extensively to create documentation, README files, and other text-based content for software development projects. My expertise in Markdown allows me to produce high-quality documents & parse html documents easily. I am proficient customizing styles, templates and other designs to meet data visualization objectives.
 
@@ -529,7 +529,7 @@ Tags:
 -  Lightweight
 
 
-## 46.   U/X Design
+## 46. U/X Design
 
 The process of designing digital products or add to them features, intended for the public through websites, apps & tools which also tends to increase customer satisfaction through the enhancement of system's interactivity, usability & accessibility for a better user's experience.
 
@@ -541,7 +541,7 @@ The process of designing digital products or add to them features, intended for 
   -  efficiency
   -  interactivity
 
-## 47.  CSharp
+## 47. CSharp
 
 Proficiency using CSharp to make Windows-Apps & in conjunction with other languages/tools such as power automate interacting with each other such as Javascript, Python, php, html, css & other frameworks like React, Node.js & .NET for the further development of Web apps back/frontends.
 
@@ -555,7 +555,7 @@ Proficiency using CSharp to make Windows-Apps & in conjunction with other langua
   -  HTML
   -  CSS
 
-## 48.  PHP
+## 48. PHP
 
 Proficiency server-side scripting with PHP enabling websites to interact dynamically with with databases / web services.
 
@@ -567,7 +567,7 @@ Proficiency server-side scripting with PHP enabling websites to interact dynamic
   -  CSS
   -  Javascript
 
-## 49.  CSS
+## 49. CSS
 
 Inclined towards making enough CSS objects decently style web pages &/or as well as to strenghthen Data Visualization processes.
 
@@ -578,7 +578,7 @@ Inclined towards making enough CSS objects decently style web pages &/or as well
   -  CSSGrid
   -  Objects
 
-## 50.  YAML
+## 50. YAML
 
 Proficiency using YAML markup language for the projects config. using github-actions .
 
