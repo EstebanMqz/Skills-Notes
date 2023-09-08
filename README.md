@@ -5,7 +5,7 @@
 
 <div align="center"><h4><b>Algorithms, Software, Programming-Languages, Frameworks, Cloud-hosting, Libraries</b></h4></div>
 
-Description:
+<i>Description:<i>
 
 <div style="font-size: 12px;">Besides from my skills through my strong <u>Statistical background</u> & experience implementing a variety of <u>DS/ML Algorithms</u> with different <u>programming languages</u> and tools, my commitment will ensure <u>CI/CD</u> pipelines reliability and <u>maintainability</u> while also being able to help team members in order to ensure <u>collaborations</u>, including the fact that my <u>curiosity</u> will always keep me <u>updated</u> in newer and better technologies.</b>
 
@@ -15,10 +15,9 @@ Description:
 Aptitude using a wide-range of interdisciplinary technologies, algorithms, frameworks & web services in order to implement complex mathematical & statistical models with structured/unstructured data to have it processed for businesses.
 
   ### Tags:
-  -  Data
-  -  Data-mining
   -  AI
   -  ML
+  -  Data-mining
   -  Statistical Models
   -  Business-Insights
   -  Predictive Analytics
@@ -28,12 +27,12 @@ Aptitude using a wide-range of interdisciplinary technologies, algorithms, frame
 Currently working on obtaining the Power BI certification to opt for greater simplicity at the moment of developing dashboards & storytelling Data Visualizations reports developing expertise in other useful Microsoft Apps that empower businesses such as Power Automate & Power Apps.
 
 ### Tags:
--  PowerBI
--  Data-Visualization
--  Data Analysis
--  Storytelling
--  Power-Automate
--  Power-Apps
+  -  PowerBI
+  -  Data-Visualization
+  -  Data Analysis
+  -  Storytelling
+  -  Power-Automate
+  -  Power-Apps
 
 ## 3. Data_analysis
 
@@ -333,7 +332,6 @@ Strong background in Statistics & Mathematics that allow me to manage & understa
 Used to develop mathematical processes/models practically & determining the distribution of data in order to model it for predictive purposes with limited entries with a great level of precision.
 
   ### Tags:
-  - 
   -  Probabilities
   -  Statistics
   -  Stochastics

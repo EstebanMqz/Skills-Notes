@@ -1,9 +1,0 @@
-Data_science
-Power_Bi
-Data_analysis
-Business_analytics
-Business_intelligence
-Big_data
-Machine_learning
-Data_cleansing
-Data_modeling

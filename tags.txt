@@ -1,0 +1,277 @@
+AI
+ML
+Data-mining
+Statistical Models
+Business-Insights
+Predictive Analytics
+PowerBI
+Data-Visualization
+Data Analysis
+Storytelling
+Power-Automate
+Power-Apps
+Data-analysis
+Data-modeling
+Decision-making
+Data-cleansing
+Business-insights
+Data-processing
+Statistical-methods
+Data-driven decisions
+Business intelligence
+Analytics
+PowerBI
+Tableau
+Advanced Excel
+Data-Engineering
+Data-lake
+Data-warehousing
+SQL
+Data-Mining
+Deep-learning
+Neural-networks
+AI
+Statistical-learning
+Time-series modelling
+Predictive-modelling
+Data-cleansing
+Outliers
+Standarization
+DQR
+Data-modeling
+Abstraction
+Programming-languages
+Software
+Optimization-modeling
+Nonlinear-Programming
+Linear-Programming
+StochasticOptimization
+ConvexOptimization
+Scikit-learn
+Predictive-modeling
+Data-mining
+Machine-learning
+Forecast
+Seasonality
+Trend
+Autocorrelation
+White-noise
+Temporal-data
+Forecasting
+Pandas
+Numpy
+Stochastic-calculus
+Quantitative-methods
+Statistical-learning
+Probabilistic-approach
+Tags
+Ntlk
+Cloud-hosting
+Datewarehousing
+CI
+Embedded systems
+Deep-Learning
+Layers
+Weights
+Evaluation-metrics
+Activation
+Overfitting
+Confussion-matrix
+Accuracy
+Precision
+Recall
+F1 scores
+ROC curves
+AUC
+ipywidgets
+Plotly-Dash
+Interactivity
+UX
+Dashboards
+Data-visualization
+Interactivity
+Tableau Desktop Specialist
+Online-Server
+NTLK
+NLP
+Text-Processing
+Sentiment-Analysis
+Speech-Recognition
+Supervised classification
+Machine-learning
+Categorical-data
+Continuous-random-variables
+GIS
+Satellite-imagery
+Unsupervised-learning
+Continous-random-variables
+Simulations
+Training-testing
+Patterns
+Continuous-deployment
+Continuous-Integration
+Feature branching
+Team-collaborations
+Continuous automation
+Designing
+Building
+Data-Architecture
+Data-Warehousing
+Virtual-environments
+Reliability
+Consistecy
+Collaboration
+Communication
+Readability
+Functionality
+Modularity
+Web-scraping
+Data-Extraction
+Data-Mining
+Legal-compliance
+Disclaimer
+LICENSE
+Privacy-Rights
+Devops
+IT-operations
+CI
+Project-Planning
+Collaborations
+Team-management
+Commodities
+Portfolio-hedging
+Optimizations
+Sharpe-Sortino-Calmar-Burke-Kappa_Omega--Traynor-Jensen-Proposed-Ratios
+Sigma_corr
+Simulations
+Forecast
+Financial-risk
+Loan-Approval
+Credit-Scoring
+Default-Predictions
+Probabilities
+Statistics
+Stochastics
+Quantitative-methods
+Data-Distributions
+Continuous-Random-Variables
+Discrete-Random-Variables
+Statistical-programming
+Data-Modelling
+Linear programming
+Mathematical-modelling
+Capital-allocation
+Portfolio-optimization
+Objective-Functions
+Constraints
+Immutability
+Lambda-Functions
+Global
+Code-Reusability
+Recursion
+Simplicity
+Object-oriented-programming
+Objects
+Data-inmutability
+Modular-programming
+Readability
+Reusability
+Git
+Version control
+Scripting
+Shell-linux
+Team-collaboration
+Communication
+Version control
+Web-hosting
+Collaborations
+Github
+Azure
+Gitlab
+Bitbucket
+Gitkraken
+Machine learning
+Cloud computing
+Integration
+CI
+Data-warehousing
+Data privacy
+Protection
+Personal-Information
+Unauthorized-Access
+Principles
+Ethics
+Values
+Dissemination
+LICENSES
+Disclaimers
+Privacy-Laws
+Python
+data analysis
+machine learning
+web development
+R
+statistical computing
+data analysis
+machine learning
+HTML
+Cloud-hosting
+Web-pages
+Azure
+Github
+Bitbucket
+Google-Colab
+LaTeX
+Mathematical-Expressions
+Statistical-Modellling
+Markup-Language
+Hyperlinks
+Bibliography
+Shell scripting
+Command-line-interface
+Automation
+File-manipulation
+Matlab
+numerical computing
+data analysis
+scientific computing
+Java
+enterprise software development
+web development
+Android app development
+Markup Language
+Text Formatting
+Documentation
+README Files
+Software Development
+Plain Text
+Lightweight
+U
+user satisfaction
+usability
+accessibility
+efficiency
+interactivity
+CSharp
+App-development
+Windows
+php
+Javascript
+HTML
+CSS
+PHP
+web-development
+server-side scripting
+HTML
+CSS
+Javascript
+Layout
+Web-pages
+Animations
+CSSGrid
+Objects
+config
+Actions
+Objects
+Anchors
+CI
