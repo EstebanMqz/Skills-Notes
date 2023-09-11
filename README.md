@@ -1,10 +1,36 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.min.css">
 
-<b>Description</b>:
+<div align="center" style="font-family: Arial, sans-serif">
 
-Python +w mode for .json elements in Tags which are transformed into a user-friendly/readable .md file with other content for which Perl regex Tag extractions from each of my skills are made. 
-This is in order to have the words & chars expressions for Tags inline,  matched & parsed into valid web-searches patterns piped as valid web hyperlinks in the markdown file. 
-<i>CI/CD Tags hyperlinks for each of my skills @ README.md to https with [html](https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/README.html) and parsed to my [profile](https://estebanmqz.github.io/EstebanMqz/html/Resume.html#about).</i>
+# <div style= color:#c4c8ff> <b>Data Scientist, Data Analyst & ML Eng. Skills </b>:</div></div>
+
+<span style="font-size: 19.8px;">
+
+<b>Repository:</b><br>
+
+Process illustration using [`ipynb`](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.ipynb) [+w](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files) method to transform <i>Tags</i> [`.json`](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.json) elements inline and parse them into a [`Markdown`](https://github.com/EstebanMqz/Skills-Notes/blob/main/web-regex.md) file.<br>
+Consequently, for an increased UX, Perl Regex <i>Tags</i> extractions for <i>Skills</i>  are made to parse the Tags with web-patterns into piped http queries as hyperlinks for Tags in Skills @ [`README.md`](https://github.com/EstebanMqz/Skills-Notes/blob/main/README.md). 
+
+<br>
+
+<i>Embedded with CI/CD attributes for my profile into: &nbsp;[![Skills.html](https://img.shields.io/badge/Skills.html-0078d7.svg?style=square&logo=html5&logoColor=white)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html)</i><br>
+
+</span>
+
+<div align="right">
+<details open>
+<summary> <div style="font-family: Arial, sans-serif; color: #c4c8ff"> <i><b>Business Inquiries:</i></b> </div> </summary>
+
+[<img width="40px" src="https://img.icons8.com/ios/50/0e55b3/resume-website.png">](https://estebanmqz.github.io/EstebanMqz/html/Resume.html)
+[<img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png">](https://tinyurl.com/bdcny457) 
+[<img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png">](https://tinyurl.com/2y86e2wa)
+[<img width="40px" src="https://img.icons8.com/color/452/gmail-new.png">](mailto:emarquez1895@gmail.com)
+[<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
+[<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
+
+</details> </div>
+
+<i> :robot: Refer to <span style="color: #36b368">password</span> in Job Application for:zap: msg. </i><br><br>
 
 ## 1. Data_Science
 
