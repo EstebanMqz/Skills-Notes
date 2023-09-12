@@ -6,16 +6,14 @@
 
 <span style="font-size: 19.8px;">
 
-<b>Repository:</b><br>
+### <br><b>Description:</b><br>
 
-Process illustration using [`ipynb`](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.ipynb) [+w](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files) method to transform <i>Tags</i> [`.json`](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.json) elements inline and parse them into a [`Markdown`](https://github.com/EstebanMqz/Skills-Notes/blob/main/web-regex.md) file.<br>
-Consequently, for an increased UX, Perl Regex <i>Tags</i> extractions for <i>Skills</i>  are made to parse the Tags with web-patterns into piped http queries as hyperlinks for Tags in Skills @ [`README.md`](https://github.com/EstebanMqz/Skills-Notes/blob/main/README.md). 
-
-<br>
-
-<i>Embedded with CI/CD attributes for my profile into: &nbsp;[![Skills.html](https://img.shields.io/badge/Skills.html-0078d7.svg?style=square&logo=html5&logoColor=white)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html)</i><br>
+Process illustration using [`ipynb`](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.ipynb) [+w](https://docs.python.org/3/library/functions.html#open) method to transform personal <i>[Tags](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.json)</i> in <b>Skills</b> to have them parsed & piped as single expressions inline.<br>
+Consequently, Perl Regex HTTP queries pattern match-making processes are made to increase UX/UI, while parsing the Skills Tags hyperlinks from corresponding transformed [::marker pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/::marker) matching LinkedIn Posts @ [`README.md`](https://github.com/EstebanMqz/Skills-Notes/blob/main/README.md).<br>Results in [HTTPS](https://developer.mozilla.org/en-US/docs/Web/HTTP) CI/CD piped & embed in my profile with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTTP): &nbsp; [![Skills.html](https://img.shields.io/badge/Skills.html-0078d7.svg?style=square&logo=html5&logoColor=white)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html). 
 
 </span>
+
+<br><i>For web scrapping automated match-making purposes.</i>
 
 <div align="right">
 <details open>
@@ -30,8 +28,8 @@ Consequently, for an increased UX, Perl Regex <i>Tags</i> extractions for <i>Ski
 
 </details> </div>
 
-<i> :robot: Refer to <span style="color: #36b368">password</span> in Job Application for:zap: msg. </i><br><br>
-
+:zap: <i>msg powered for <b>Job Application</b> <span style="color: #36b368"> (password)</span></i><br><br>
+ 
 ## 1. Data_Science
 
 Aptitude using a wide-range of interdisciplinary technologies, algorithms, frameworks & web services in order to implement complex mathematical & statistical models with structured/unstructured data to have it processed for businesses.
@@ -605,3 +603,11 @@ Proficiency using YAML markup language for the projects config. using github-act
   - #Anchors
   - #Alias-Obj-Refs
 
+
+
+
+
+ ###### References: [![HTML Preview](https://img.shields.io/badge/HTML_Preview-282c34?style=flat-square&logo=github)](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)[![Markdown HTML](https://img.shields.io/badge/Markdown_HTML-282c34?style=flat-square&logo=github)](https://github.com/ZhYong10/vscode-markdown-html)[![HTML CSS Support](https://img.shields.io/badge/HTML_CSS_Support-282c34?style=flat-square&logo=github)](https://github.com/ecmel/vscode-html-css)[![HTML CSS](https://img.shields.io/badge/HTML_CSS-282c34?style=flat-square&logo=github)](https://github.com/neptunedesign/vs-html-to-css)
+
+<span style="font-size: 12px;"> Among other Extensions & Tools such as custom [![Experimental](https://img.shields.io/badge/Experimental-FF1B2D?style=flat-square&logo=opera&logoColor=gray)](opera://flags) & [![DevTools](https://img.shields.io/badge/DevTools-FF1B2D?style=flat-square&logo=opera&logoColor=gray)](https://dev.opera.com/extensions/dev-tools/)<br>for HTML, CSS, JS web interactive editing, debugging & network analysis to simulate interconnectivity, etc.
+ </span>
