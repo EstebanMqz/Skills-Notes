@@ -11,9 +11,8 @@
 Process illustration using [`ipynb`](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.ipynb) [+w](https://docs.python.org/3/library/functions.html#open) method to transform personal <i>[Tags](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.json)</i> in <b>Skills</b> to have them parsed & piped as single expressions inline.<br>
 Consequently, Perl Regex HTTP queries pattern match-making processes are made with custom DevTools Event Listeners  to increase UX/UI, while parsing the Skills Tags hyperlinks from transformed matching LinkedIn Posts @ [`README.md`](https://github.com/EstebanMqz/Skills-Notes/blob/main/README.md).<br>Results in [HTTPS](https://developer.mozilla.org/en-US/docs/Web/HTTP) CI/CD piped & embed in my profile with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTTP): &nbsp; [![Skills.html](https://img.shields.io/badge/Skills.html-0078d7.svg?style=square&logo=html5&logoColor=white)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html). 
 
-</span>
 
-<br><i>For web scrapping automated match-making purposes.</i>
+<br>
 
 <div align="right">
 <details open>
@@ -26,9 +25,18 @@ Consequently, Perl Regex HTTP queries pattern match-making processes are made wi
 [<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
 [<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
 
+<div align= "left">
+
+###### Web-Audit:  
+[![Lighthouse Web Audit](https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&logo=lighthouse&logoColor=orange)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html) [![W3C HTML Validation](https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhtmlpreview.github.io%2F%3Fhttps%3A%2F%2Fgithub.com%2FEstebanMqz%2FSkills-Notes%2Fblob%2Fmain%2FSkills.html)
+</div>
 </details> </div>
 
-:zap: <i>msg powered for <b>Job Application</b> <span style="color: #36b368"> (password)</span></i><br><br>
+</span>
+
+<br>
+
+:zap: <i>msg powered for <b>Job Application</b> <span style="color: #36b368"> (password)</i><br><br>
  
 ## 1. Data_Science
 

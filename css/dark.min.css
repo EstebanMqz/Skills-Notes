@@ -1,0 +1,29 @@
+:root {
+    --select-arrow: url("https://www.svgrepo.com/show/528384/map-arrow-up.svg");
+    --background-image: var(--select-arrow) !important;
+  }
+  
+  html {
+    margin: 5px !important;
+    scrollbar-width: auto;
+  }
+  
+  select {
+    background: #161f27 url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23efefef'%3E%3Cpath d='M115 2c-1-2-4-2-5 0L59 53 7 2a4 4 0 00-5 5l54 54 2 2 3-2 54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E") calc(100% - 12px) 50%/12px no-repeat !important;
+    background: var(--background) var(--select-arrow) calc(100% - 12px) 50%/12px no-repeat !important;
+    padding-right: 35px !important;
+  }
+  
+  /* Style the scrollbar for WebKit-based browsers */
+  @media screen and (-webkit-min-device-pixel-ratio:0) {
+    html {
+      scrollbar-color: #48cd14 #2fcd1c !important;
+      scrollbar-width: none !important;
+    }
+  
+    /* Style the scrollbar */
+    ::-webkit-scrollbar {
+      width: 10px !important;
+      background-color: #2fcd1c !important;
+    }
+}
