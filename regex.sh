@@ -11,7 +11,8 @@ cat tags.txt | sed 's/[\/-]/%20/g' | xargs -I{} echo "https://www.linkedin.com/s
 
 #Markdown awk print format hyperlinks & testing. 
 paste tags.txt web.txt | awk '{print "["$1"]("$2")"}' | tee web-regex.md && rm tags.txt web.txt 
-code --reuse-window "web-regex.md"
+
+#awk '/^\s\s-\s#/ {print "["$2"]("$3")"}' README.md > test.md
 
 
 
