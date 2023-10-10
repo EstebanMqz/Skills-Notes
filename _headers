@@ -1,2 +1,0 @@
-/*
-  Content-Security-Policy: default-src 'none'; script-src 'nonce-randomly-generated-nonce'; style-src 'self' 'unsafe-inline'
