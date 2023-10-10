@@ -1,3 +1,4 @@
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.min.css">
 
 <div align="center" style="font-family: Arial, sans-serif">
@@ -27,6 +28,7 @@ Consequently, Perl Regex HTTP queries pattern match-making processes are made wi
 
 <div align= "left">
 
+
 ###### Web-Audit:  
 [![Lighthouse Web Audit](https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&logo=lighthouse&logoColor=orange)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html) [![W3C HTML Validation](https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhtmlpreview.github.io%2F%3Fhttps%3A%2F%2Fgithub.com%2FEstebanMqz%2FSkills-Notes%2Fblob%2Fmain%2FSkills.html)
 </div>
@@ -37,6 +39,40 @@ Consequently, Perl Regex HTTP queries pattern match-making processes are made wi
 <br>
 
 :zap: <i>msg powered for <b>Job Application</b> <span style="color: #36b368"> (password)</i><br><br>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.min.css">
+
+<div align="center" style="font-family: Arial, sans-serif">
+
+# <div style= color:#c4c8ff> <b>Data Scientist, Data Analyst & ML $_{Eng.}$ Skills </b>:</div></div>
+
+<span style="font-size: 19.8px;">
+
+### <br><b>Description:</b><br>
+
+Process illustration using [`ipynb`](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.ipynb) [+w](https://docs.python.org/3/library/functions.html#open) method to transform personal <i>[Tags](https://github.com/EstebanMqz/Skills-Notes/blob/main/skillset.json)</i> in <b>Skills</b> to have them parsed & piped as single expressions inline.<br>
+Consequently, Perl Regex HTTP queries pattern match-making processes are made to increase UX/UI, while parsing the Skills Tags hyperlinks from corresponding transformed [::marker pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/::marker) matching LinkedIn Posts @ [`README.md`](https://github.com/EstebanMqz/Skills-Notes/blob/main/README.md).<br>Results in [HTTPS](https://developer.mozilla.org/en-US/docs/Web/HTTP) CI/CD piped & embed in my profile with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTTP): &nbsp; [![Skills.html](https://img.shields.io/badge/Skills.html-0078d7.svg?style=square&logo=html5&logoColor=white)](https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html). 
+
+<br><i>For web scrapping automated match-making purposes.</i>
+
+
+</span>
+
+
+<div align="right">
+<details open>
+<summary> <div style="font-family: Arial, sans-serif; color: #c4c8ff"> <i><b>Business Inquiries:</i></b> </div> </summary>
+
+[<img width="40px" src="https://img.icons8.com/ios/50/0e55b3/resume-website.png">](https://estebanmqz.github.io/EstebanMqz/html/Resume.html)
+[<img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png">](https://tinyurl.com/bdcny457) 
+[<img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png">](https://tinyurl.com/2y86e2wa)
+[<img width="40px" src="https://img.icons8.com/color/452/gmail-new.png">](mailto:emarquez1895@gmail.com)
+[<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
+[<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
+
+</details> </div>
+
+:zap: <i>msg powered for <b>Job Application</b> <span style="color: #36b368"> (password)</span></i><br><br>
  
 ## 1. Data_Science
 
@@ -617,5 +653,5 @@ Proficiency using YAML markup language for the projects config. using github-act
 
  ###### References: [![HTML Preview](https://img.shields.io/badge/HTML_Preview-282c34?style=flat-square&logo=github)](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)[![Markdown HTML](https://img.shields.io/badge/Markdown_HTML-282c34?style=flat-square&logo=github)](https://github.com/ZhYong10/vscode-markdown-html)[![HTML CSS Support](https://img.shields.io/badge/HTML_CSS_Support-282c34?style=flat-square&logo=github)](https://github.com/ecmel/vscode-html-css)[![HTML CSS](https://img.shields.io/badge/HTML_CSS-282c34?style=flat-square&logo=github)](https://github.com/neptunedesign/vs-html-to-css)
 
-<span style="font-size: 12px;"> Among other Extensions & Tools such as custom [![Experimental](https://img.shields.io/badge/Experimental-FF1B2D?style=flat-square&logo=opera&logoColor=gray)](opera://flags) & [![DevTools](https://img.shields.io/badge/DevTools-FF1B2D?style=flat-square&logo=opera&logoColor=gray)](https://dev.opera.com/extensions/dev-tools/)<br>for HTML, CSS, JS web interactive editing, debugging & network analysis to simulate interconnectivity, etc.
+<span style="font-size: 12px;"> Among other Extensions & Tools such as custom [![Experimental](https://img.shields.io/badge/Experimental-FF1B2D?style=flat-square&logo=opera&logoColor=gray)](opera://flags) $\&$ [![DevTools](https://img.shields.io/badge/DevTools-FF1B2D?style=flat-square&logo=opera&logoColor=gray)](https://dev.opera.com/extensions/dev-tools/)<br>for HTML, CSS, JS web interactive editing, debugging $\&$ network analysis to simulate interconnectivity, etc.
  </span>

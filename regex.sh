@@ -12,8 +12,9 @@ cat tags.txt | sed 's/[\/-]/%20/g' | xargs -I{} echo "https://www.linkedin.com/s
 #Markdown awk print format hyperlinks & testing. 
 paste tags.txt web.txt | awk '{print "["$1"]("$2")"}' | tee web-regex.md && rm tags.txt web.txt 
 
-#awk '/^\s\s-\s#/ {print "["$2"]("$3")"}' README.md > test.md
+awk '/^\s\s-\s#/ {print "["$2"]("$3")"}' README.md > test.md
 
+# LinkedIn Web-Scrapping hyperlink e.g: "https://www.linkedin.com/jobs/search/?keywords=data%20scientist&location=San%20Francisco&refresh=true"
 
 
 
