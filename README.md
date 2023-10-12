@@ -4,7 +4,7 @@
 <div align="center" style="font-family: Arial, sans-serif font-size: 30px">
 
 # <div style= color:#c4c8ff> <img src="https://github.com/EstebanMqz.png?size=100" alt="Financial-Engineer_&_Data-Scientist" style="max-width: 100%;"> <b>Data Scientist, Data Analyst & ML Engineer </b></div>
-<i id="location-icon" style="font-size: 25px"><img class="pin" alt="location" src="https://www.svgrepo.com/show/513552/location-pin.svg" width="35" height="35"> &#127758; Automated match-making Web-Scrapping.</i></div><br>
+<i id="location-icon" style="font-size: 25px"><img class="pin" alt="location" src="https://www.svgrepo.com/show/513552/location-pin.svg" width="35" height="35"> &#127758; Automated LinkedIn match-making Web-Scrapper</i></div><br>
 
 <span style="font-size: 19.8px;">
 
@@ -54,7 +54,7 @@ Objective:
 
   <br>
 
-  [![Lighthouse](https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&logo=lighthouse&logoColor=orange)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html) [![W3C HTML Validation](https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhtmlpreview.github.io%2F%3Fhttps%3A%2F%2Fgithub.com%2FEstebanMqz%2FSkills-Notes%2Fblob%2Fmain%2FSkills.html)
+  [![Lighthouse](https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&logo=lighthouse&logoColor=orange)](https://pagespeed.web.dev/analysis/https-htmlpreview-github-io/ey75n4hevb?form_factor=mobile) [![W3C HTML Validation](https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhtmlpreview.github.io%2F%3Fhttps%3A%2F%2Fgithub.com%2FEstebanMqz%2FSkills-Notes%2Fblob%2Fmain%2FSkills.html)
 
   <div>
   </details>
@@ -639,15 +639,17 @@ Proficiency using YAML markup language for the projects config. using github-act
 
 
 
+###### Refs:
 
+[![HTML Preview](https://img.shields.io/badge/HTML_Preview-282c34?style=flat&amp;logo=github&amp;color=4b4d47)](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode)
+&nbsp;
+[![Markdown HTML](https://img.shields.io/badge/Markdown_HTML-282c34?style=flat&amp;logo=github&amp;color=4b4d47)](https://github.com/ZhYong10/vscode-markdown-html)
+&nbsp;
+[![HTML CSS Support](https://img.shields.io/badge/HTML_CSS_Support-282c34?style=flat&amp;logo=github&amp;color=4b4d47)](https://github.com/ecmel/vscode-html-css)
+&nbsp;
+[![HTML CSS](https://img.shields.io/badge/HTML_CSS-282c34?style=flat&amp;logo=github&amp;color=4b4d47)](https://github.com/neptunedesign/vs-html-to-css)
 
- ###### References: [![HTML Preview](https://img.shields.io/badge/HTML_Preview-282c34?style=flat-square&logo=github)](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode) &nbsp; [![Markdown HTML](https://img.shields.io/badge/Markdown_HTML-282c34?style=flat-square&logo=github)](https://github.com/ZhYong10/vscode-markdown-html) &nbsp; [![HTML CSS Support](https://img.shields.io/badge/HTML_CSS_Support-282c34?style=flat-square&logo=github)](https://github.com/ecmel/vscode-html-css) &nbsp; [![HTML CSS](https://img.shields.io/badge/HTML_CSS-282c34?style=flat-square&logo=github)](https://github.com/neptunedesign/vs-html-to-css)
+### DevTools:
 
-In Web Development HTML are often used in conjunction with a variety of programming languages such as CSS, JS , PHP, SQL, Python, Java, C#, Debugging, Add/Remove Event Listeners, Check interconnectivity, Debugging (easier on distributed systems), for CI/CD in servers, etc.
-
-<span style="font-size: 12px;"> <b>Extensions & Tools:</b> 
-[![Experimental](https://img.shields.io/badge/Experimental-FF1B2D?style=flat-square&logo=opera&logoColor=gray)](opera://flags) &nbsp;
-[![DevTools](https://img.shields.io/badge/DevTools-FF1B2D?style=flat-square&logo=opera&logoColor=gray)](https://dev.opera.com/extensions/dev-tools/) <br> 
-</span>
-
- <script src="js/rm-svg.js"></script>
+[![Firefox Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/20px-Firefox_logo%2C_2019.svg.png?20221020111440)](https://developer.mozilla.org/en-US/docs/Web)
+&nbsp; [![Experimental](https://img.shields.io/badge/Experimental-FF0000?style=flat&amp;logo=opera&amp;logoColor=FF0000&amp;color=000000 "Experimental")](opera://flags) [![DevTools](https://img.shields.io/badge/DevTools-FF0000?style=flat&amp;logo=opera&amp;logoColor=FF0000&amp;color=000000 "DevTools")](https://dev.opera.com/extensions/dev-tools/)
