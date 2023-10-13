@@ -54,7 +54,7 @@ Objective:
 
   <br>
 
-  [![Lighthouse](https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&logo=lighthouse&logoColor=orange)](https://pagespeed.web.dev/analysis/https-htmlpreview-github-io/ey75n4hevb?form_factor=mobile) [![W3C HTML Validation](https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhtmlpreview.github.io%2F%3Fhttps%3A%2F%2Fgithub.com%2FEstebanMqz%2FSkills-Notes%2Fblob%2Fmain%2FSkills.html)
+  [![Lighthouse](https://img.shields.io/badge/Google-Web_Audit-000061?style=-flat&logo=lighthouse&logoColor=orange)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https://htmlpreview.github.io/?https://github.com/EstebanMqz/Skills-Notes/blob/main/Skills.html) [![W3C HTML Validation](https://img.shields.io/badge/W3C-HTML_Validation-400101?style=flat-square&logo=w3c&logoColor=white)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhtmlpreview.github.io%2F%3Fhttps%3A%2F%2Fgithub.com%2FEstebanMqz%2FSkills-Notes%2Fblob%2Fmain%2FSkills.html)
 
   <div>
   </details>
