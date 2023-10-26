@@ -1,0 +1,126 @@
+{
+
+    "Canada": [
+      "Canada",
+      "Ontario",
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "British Columbia",
+      "Calgary",
+      "Brampton",
+      "Manitoba",
+      "Winnipeg",
+      "Alberta",
+      "Saskatchewan",
+      "Regina",
+      "New Brunswick",
+      "Nova Scotia",
+      "Prince Edward Island"
+    ],
+
+
+    "United States": [
+      "United States",
+      "Georgia",
+      "Washington",
+      "New York",
+      "Delaware",
+      "California",
+      "Massachusetts",
+      "Nevada",
+      "Idaho",
+      "Alaska",
+      "New Jersey",
+      "New Hampshire",
+      "Oregon",
+      "Nevada",
+      "Montana",
+      "Pittsburgh",
+      "Atlanta",
+      "Chicago",
+      "Miami",
+      "Seattle",
+      "Michigan",
+      "Florida"
+    ],
+
+
+    "Australia": [
+      "Australia",
+      "Sydney",
+      "Western Australia",
+      "South Australia",
+      "Melbourne",
+      "Queensland",
+      "Tasmania",
+      "Victoria"
+    ],
+
+
+    
+  //HERE: LinkedIn Validated.
+
+  //   "Ireland": [
+  //     "Ireland",
+  //     "Dublin",
+  //     "Louth",
+  //     "Galway",
+  //     "Armagh",
+  //     "County Mayo",
+  //     "Waterford",
+  //     "County Kerry",
+  //     "County Clare",
+  //     "Antrim",
+  //     "County Limerick",
+  //     "County Longford"
+  //   ],
+
+
+  //   "New Zealand": [
+  //     "New Zealand",
+  //     "Auckland, New Zealand",
+  //     "Victoria, Australia",
+  //     "New South Wales, Australia",
+  //     "Hamilton New Zealand"
+  //   ],
+
+
+  //   "England": [
+  //     "London",
+  //     "Manchester",
+  //     "Birmingham",
+  //     "Leeds",
+  //     "Bristol"
+  //   ],
+
+
+  //   "United Kingdom": [
+  //     "London",
+  //     "Manchester",
+  //     "Birmingham",
+  //     "Leeds",
+  //     "Bristol"
+  //   ],
+
+
+  //   "Spain": [
+  //     "Madrid",
+  //     "Barcelona",
+  //     "Valencia",
+  //     "Seville",
+  //     "Bilbao"
+  //   ],
+
+
+  //   "Mexico": [
+  //     "Mexico City",
+  //     "Guadalajara",
+  //     "Monterrey",
+  //     "Puebla",
+  //     "Tijuana"
+  //   ]
+
+  // }
+  
+  // "URL-B.C" : "www.linkedin.com/jobs/search/?&keywords=Data%20Scientist&location=County%20Limerick&refresh=true"
