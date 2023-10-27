@@ -1,5 +1,4 @@
 {
-
     "Canada": [
       "Canada",
       "Ontario",
@@ -18,7 +17,6 @@
       "Nova Scotia",
       "Prince Edward Island"
     ],
-
 
     "United States": [
       "United States",
@@ -45,7 +43,6 @@
       "Florida"
     ],
 
-
     "Australia": [
       "Australia",
       "Sydney",
@@ -56,71 +53,84 @@
       "Tasmania",
       "Victoria"
     ],
-
-
     
-  //HERE: LinkedIn Validated.
+    "Ireland": [
+      "Ireland",
+      "Dublin",
+      "Louth",
+      "Galway",
+      "Armagh",
+      "County Mayo",
+      "Waterford",
+      "County Kerry",
+      "County Clare",
+      "Antrim",
+      "County Limerick",
+      "County Longford"
+    ],
 
-  //   "Ireland": [
-  //     "Ireland",
-  //     "Dublin",
-  //     "Louth",
-  //     "Galway",
-  //     "Armagh",
-  //     "County Mayo",
-  //     "Waterford",
-  //     "County Kerry",
-  //     "County Clare",
-  //     "Antrim",
-  //     "County Limerick",
-  //     "County Longford"
-  //   ],
+    "New Zealand": [
+      "New Zealand",
+      "Auckland, New Zealand",
+      "Victoria, Australia",
+      "New South Wales, Australia",
+      "Hamilton New Zealand"
+    ],
 
+    "England": [
+      "London",
+      "Manchester",
+      "Birmingham",
+      "Leeds",
+      "Bristol"
+    ],
 
-  //   "New Zealand": [
-  //     "New Zealand",
-  //     "Auckland, New Zealand",
-  //     "Victoria, Australia",
-  //     "New South Wales, Australia",
-  //     "Hamilton New Zealand"
-  //   ],
+    "United Kingdom": [
+      "London",
+      "Manchester",
+      "Birmingham",
+      "Scotland",
+      "Wales",
+      "Birmingham",
+      "Northern Ireland",
+      "Birmingham",
+      "Leeds",
+      "Bristol"
+    ],
 
+    "Spain": [
+      "Spain"
+      "Madrid, Community of Madrid, Spain",
+      "Barcelona, Spain",
+      "Seville, Spain",
+      "Valencia, Valencian Community, Spain",
+      "Seville, Andalusia, Spain",
+      "Bilbao-Bilbo, Basque Country, Spain",
+      "Granada, Andalusia, Spain",
+      "Málaga, Andalusia, Spain",
+      "CordobaCórdoba, Andalusia, Spain",
+      "Toledo, Castile-La Mancha, Spain",
+      "Santiago de Compostela",
+      "Salamanca, Castilla and Leon, Spain",
+      "Cadiz, Andalusia, Spain",
+      "Zaragoza, Aragon, Spain",
+      "San Sebastián, Basque Country, Spain",
 
-  //   "England": [
-  //     "London",
-  //     "Manchester",
-  //     "Birmingham",
-  //     "Leeds",
-  //     "Bristol"
-  //   ],
+    ],
 
-
-  //   "United Kingdom": [
-  //     "London",
-  //     "Manchester",
-  //     "Birmingham",
-  //     "Leeds",
-  //     "Bristol"
-  //   ],
-
-
-  //   "Spain": [
-  //     "Madrid",
-  //     "Barcelona",
-  //     "Valencia",
-  //     "Seville",
-  //     "Bilbao"
-  //   ],
-
-
-  //   "Mexico": [
-  //     "Mexico City",
-  //     "Guadalajara",
-  //     "Monterrey",
-  //     "Puebla",
-  //     "Tijuana"
-  //   ]
-
-  // }
+    "Mexico": [
+      "Mexico City",
+      "Monterrey",
+      "Puebla",
+      "Tijuana",
+      "Aguascalientes",
+      "Chihuahua",
+      "Nuevo León",
+      "Querétaro",
+      "San Luis Potosí",
+      "Toluca",
+      "Yucatán",
+    ]
+  }
   
   // "URL-B.C" : "www.linkedin.com/jobs/search/?&keywords=Data%20Scientist&location=County%20Limerick&refresh=true"
