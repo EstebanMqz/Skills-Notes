@@ -1,253 +1,254 @@
 
 {
-  "data_science": {
-    "description": "Aptitude using a wide-range of interdisciplinary technologies, algorithms, frameworks & web services in order to implement complex mathematical & statistical models with structured/unstructured data to have it processed for businesses.",
-    "tags": ["#Data", "Data-mining", "AI", "ML", "Statistical Models", "Business-Insights", "Predictive Analytics"]
-  },
 
-  "Power_bi": {
-    "description": "Currently working on obtaining the Power BI certification to opt for greater simplicity at the moment of developing dashboards & storytelling Data Visualizations reports developing expertise in other useful Microsoft Apps that empower businesses such as Power Automate & Power Apps.",
-    "tags": ["#PowerBI", "#Data-Visualization", "#Data Analysis", "#Storytelling", "#Power-Automate", "#Power-Apps"]
+  "Data_Engineering": {
+    "description": "Experience manipulating large scaled datasets to have them effectively processed and automated through feature engineered CI/CD pipelines & Data Warehousing ETL processes.",
+    "tags": ["#Data-Engineering", "#Data-Architectures", "#Data-Warehousing", "#ETL", "#Data-Management", "#Data-Processing"]
   },
   
-  "data_analysis": {
-    "description": "Advocate of following structured methods to process data, allowing me to make data cleansing & transformations to understand it fully while being able to uncover hidden patterns.",
-    "tags": ["#Data-analysis", "#Data-modeling", "#Decision-making", "Data-cleansing"]
+  "Data_Science": {
+    "description": "Aptitude using a wide-range of interdisciplinary technologies, algorithms, frameworks & web services in order to implement complex mathematical & statistical models with structured/unstructured data to have it processed for businesses.",
+    "tags": ["#Data-Science", "#Data-Mining", "#ML","#Business-Insights", "#Data-Preprocessing", "#Business-Analysis"]
   },
 
-  "business_analytics": {
-    "description": "High level of comepetence using a wide range of data analysis tools & statistical models to identify, extract & construct relevant business insights and their relation with variables of interest to enable making business data-driven decisions.",
-    "tags": ["#Business-insights", "#Data-processing", "#Statistical-methods", "#Data-driven"]
+  "Power_Bi": {
+    "description": "Currently working to obtain Power BI certification(s), opting for an increased system simplicity for the end-user & teamwork specially if automating storytelling Data Visualizations & Dashboards for higher executives to empower the business. Also enhancing my Power Automation & Power Apps skills.",
+    "tags": ["#PowerBI", "#Tableau", "#Dashboards", "#Data-Visualization", "#Data-Analysis", "#Storytelling", "#Power-Automate", "#Power-Apps"]
+  },
+  
+  "Data_Analysis": {
+    "description": "Inclined for the usage of structured methods to automate efficient ETL processes & updated data preprocessing techniques that include Data Extraction, Cleansing, Parsing, Transforming, Piping and Loading revealed Business Insights on CI/CD pipelines.",
+    "tags": ["#Data-Analysis", "#Data-Modeling", "#Simulation-Modeling", "#Decision-Making", "#Data-Cleansing"]
   },
 
-  "business_intelligence": {
-    "description": "Skilled implementing, reviewing & correcting statiscal/quantitative models to ensure the usage libraries modules & software tools to confidently explain and provide the business insights using powerful Data Visualization interactive tools.",
-    "tags": ["#Business intelligence", "#Analytics", "Power-Bi", "Tableau", "Advanced Excel"]
+  "Business_Analytics": {
+    "description": "Competence using a wide range of Data Analysis tools & Statistical models to extract, identify, analyze & deliver relevant/hidden insights such as variables covariance/correlation in interaction with large datasets with or without predefined variables to further enhance businesses data-driven decisions.",
+    "tags": ["#Business-Analytics", "#Business-Insights", "#Data-Processing", "#Statistical-Methods", "#Data-Driven"]
   },
 
-  "big_data": {
-    "description": "Experience manipulating large datasets that contain millions of records to effectively automate CI/CD pipelines locally including feature engineering.",
-    "tags": ["#Data-Engineering", "#Data-lake", "#Data-warehousing", "#SQL", "Data-Mining"]
+  "Business_Intelligence": {
+    "description": "Skilled implementing, reviewing & correcting Statiscal/Quantitative models to ensure the correct usage of libs, modules & pkgs according to data needs, implementing PRs to source-codes to expand modules usages and/or creating mantainable private software modules for organizations.",
+    "tags": ["#Business-Intelligence", "#Business-Analytics", "#Power-Bi", "#Tableau", "#Excel-Macros", "#Excel-Solver"]
   },
 
-  "machine_learning": {
+  "Machine_Learning": {
     "description": "Competence in major branch of AI for classification, clustering, optimization, forecasting processes using CI/CD pipelines.",
-    "tags": ["#Deep-learning", "#Neural-networks", "#AI", "Statistical-learning", "#Time-series modelling", "Predictive-modelling"]
+    "tags": ["#Machine_Learning, #Deep-Learning", "#Neural-Networks", "#AI"]
   },    
 
-  "data_cleansing": {
-    "description": "Handling datasets duplicate & missing values, standardizing data, handling outliers and processing dtypes (e.g text-processing NLP/NTLK) & white noise reduction for temporal data.",
-    "tags": ["#Data-cleansing", "#Outliers", "#Standarization", "#DQR"]
+  "Data_Cleansing": {
+    "description": "Experiencing handling large datasets with the creation & implementation of outlier detection algorithms according to variables&columns dtypes and rows lenghts while having missing values filled accordingly and data standardized, normalized & dimensions reduced,",
+    "tags": ["#Data-Cleansing", "#Outlier-Detection", "#DQR", "#Data-Standarization", "#Data-Normalization"]
   },
 
-  "data_modeling": {
-    "description": "Passionate about automating abstraction processes through code to efficiently/repetitively make conceptual representations from hidden structures & patterns to make relationships using a variety of programming languages/tools.",
-    "tags": ["#Data-modeling", "#Abstraction", "#Programming-languages", "#Software"]
+  "Data_Modeling": {
+    "description": "Passionate about automating abstraction processes with FP/OOP programming paradigms mainly because of their Reusability, Scalability and Modularity attributes not to mention their other common attributes.",
+    "tags": ["#Data-Modeling", "#Data-Abstraction", "#Programming-Languages", "#Frameworks", "#Terminals"]
   },
 
-  "optimization_modeling": {
-    "description": "Experienced Programming minimizing/maximizing objective functions with/without constraints in order for the algorithm to iterate to the best uni/multi-variate solutions.", 
-    "tags": ["#Optimization-modeling", "#Nonlinear-Programming", "#Linear-Programming", "#Stochastic-Optimization", "#Convex-Optimization", "#Scikit-learn"]
+  "Optimization_Modeling": {
+    "description": "Experienced defining min/max objective function models and algorithms with their respective constraints to correctly iterate to the best answer(s) using approximations.", 
+    "tags": ["#Optimization-Modeling", "#Nonlinear-Programming", "#Linear-Programming", "#Stochastic-Optimization", "#Convex-Optimization", "#Scikit-learn", "#Tensoflow", "#Keras", "#DeepLearning-Toolbox"]
   },
 
-  "predictive_modeling": {
-    "description": "Adept programming CI/CD pipelines with tools/frameworks & cloud/local hosting services to make uni/multivariate forecasts with continuously integrated prediction responses.",
-    "tags": ["#Predictive-modeling", "#Data-mining", "#Machine-learning", "#Forecast"]
+  "Predictive_Modeling": {
+    "description": "Experience deploying ML & Forecast models with several Tools/Frameworks and cloud hosting services CI/CD pipelines to enable dynamic models according to recently added data to automate future executions & ETL processes.",
+    "tags": ["#Predictive-Modeling", "#Artificial-Intelligence", "#Multivariate-Forecasting"]
   },
 
-  "timeseries_modelling": {
+  "Timeseries_Modelling": {
     "description": "Skilled implementing white noise reduction techniques, modeling trends, seasonality, autocorrelation as well as the analysis of other temporal patterns on time-series for predictive purposes.",
-    "tags": ["#Seasonality", "#Trend", "#Autocorrelation", "#White-noise", "#Temporal-data", "Forecasting", "Pandas", "Numpy"]
+    "tags": ["#Timeseries_Modelling", "#Pandas", "#Numpy", "#Matplotlib", "#Plotly", "#Tidyverse", "#Ggplot", "#Seasonality", "#Trend", "#Autocorrelation", "#White-Noise", "#Temporal-Data", "Data-Forecasting"]
   },
 
-  "statistical_analysis": {
+  "Statistical_Analysis": {
     "description": "Inclination to use statistical methods & mathematical properties to further implement simulation techniques from distributions of data in order to make models consider probabilities through Stochastic/Quantitative methods in LateX.",
-    "tags": ["#Quantitative-methods", "#Statistical-learning", "Probabilistic-approach"]
+    "tags": ["#Statistical_Analysis", "#Quantitative-Models", "#Statistical-Learning", "#Stochastic-Approach", "Multivariate-Optimization", "#Quantitative-Modelling"]
   },
 
-  "artificial_intelligence": {
-    "description": "Passionate implementing ingrained task-executions in embedded systems without explicitly being programmed to do so.",
-    "tags": ["#Ntlk", "#Cloud-hosting", "#Datewarehousing", "#CI/CD", "#Embedded systems"]
+  "Artificial_Intelligence": {
+    "description": "Passionate automating software with several Programming Languagaes, FrameWorks and Networks, constantly learning & experiencing with new tools`.",
+    "tags": ["#Artificial_Intelligence", "#NTLK", "#Cloud-Environments", "#Versioning", "#VCS", "#Date-Warehousing"]
   },
 
-  "deep_learning": {
+  "Deep_Learning": {
     "description": "Competent in the theory and practice of deep learning, including neural network architectures such as CNNs, RNNs, GANs, and LSTM, as well as optimization algorithms and regularization techniques. Experience  using Deep Learning Frameworks such as TensorFlow, PyTorch & Neural Network/Deep Learning Toolbox.",
-    "keywords": ["Deep_neural-networks", "CNN", "RNN", "LSTM", "GANs", "DBNs", "PyTorch", "Deep Neural Network Toolbox", "Neural Network Toolbox", "Natural_language-processing"]
+    "keywords": ["#Deep_Learning", "#Neural-Networks", "#CNN", "#RNN", "#LSTM", "#GANs", "#PyTorch","#NLP", "#NTLK", "#NeuralNetwork-Toolbox", "#DeepLearning-Toolbox"]
   },
 
-  "neural_networks": {
-    "description": "Experienced programming NN, including mathematically proposing their Activation/Loss functions, Layers & Weigts, preventing under/overfitting while determining and interpreting effectively the model's metrics & tools such as Confussion Matrix, Accuracy, Precision, Recall, F1 scores, ROC & AUC, RMSE, MAE, MSE, MAPE, etc.",
-    "tags": ["#Deep-Learning", "Layers/Neurons", "Weights", "#Evaluation-metrics", "#Activation/loss-functions", "#Overfitting", "#Confussion-matrix", "#Accuracy", "#Precision", "#Recall", "#F1 scores", "#ROC curves", "#AUC"]
+  "Neural_Networks": {
+    "description": "Experienced proposing Activation/Loss functions within NN models Layers & Weigts while preventing under/overfitting & enhancing model's metrics such as Accuracy, Precision, Recall, F1 scores, ROC & AUC, RMSE, MAE, MSE, MAPE, etc.",
+    "tags": ["#Deep-Learning", "#Layers/Neurons", "#Variable-Weights", "#Model-Metrics", "#ActivationLoss-Functions", "#Overfitting-Underfitting", "#Confussion-Matrix", "#Accuracy", "#Precision", "#Recall", "#F1-scores", "#ROC-Curves", "#AUC"]
   },
   
-  "data_visualization": {
-    "description": "Proficiency using the most updated Data Visualization Libraries & Dashboard-tools (Matplotlib, Seaborn, Plotly-Dash, ggplot, Streamlit, Advanced Excel, PowerBI, Tableau & others). Expertise most existing Plot-types for business-insights storytelling.", 
-    "tags": ["ipywidgets", "Plotly-Dash", "#Interactivity", "#UX/UI-Design"]
+  "Data_Visualization": {
+    "description": "Proficiency using updated Data Visualization Libraries & Dashboard tools such as Matplotlib, Seaborn, Plotly-Dash, ggplot, Streamlit, Advanced Excel, PowerBI, Tableau & others while being able to represent data to various Plot-types for greater Business-Insights & storytelling.", 
+    "tags": ["#Ipywidgets", "#Plotly-Dash", "#User-Interactivity", "#UX/UI-Design", "#User-Engagement", "#Business-Insights"]
   },
 
-  "tableau": {
-    "description": "Working on certifying as a Tableau Desktop Specialist be able to provide professionaly the powerful Data Visualization software / real-time collaborations through interactive dashboards including a wide-range of customizations.",
-    "tags": ["#Dashboards", "#Data-visualization", "#Interactivity", "#Tableau Desktop Specialist", "Online-Server"]
+  "Tableau": {
+    "description": "Certifying as Tableau Desktop Specialist to be able to professionally provide a more Powerful Data Visualization software with faster real-time collaborations through interactive dashboards & wide-range of customizations.",
+    "tags": ["#Dashboards", "#Data-Visualization", "#Interactivity", "#Tableau-DesktopSpecialist", "#Serversided-DataVisualization"]
   },
 
-  "natural_language_processing": {
-    "description": "Experienced implementing the subset of AI within ML that includes powerful algorithms to preprocess text/speech, sentiment's analysis and Supervised/Unsupervised learning algorithms.",
-    "tags": ["NLP", "Text-Processing", "Sentiment-Analysis", "Speech-Recognition"]
+  "NLP": {
+    "description": "Experienced implementing AI ML subset including NTLK lib and self-made algorithms to process text/speech, sentiment's analysis and Supervised/Unsupervised learning algorithms within datasets.",
+    "tags": ["#NLP", "#NTLK", "#Text-Processing", "#Speech-Processing", "#Sentiment-Analysis", "#Speech-Recognition"]
   },
   
-  "supervised_learning": {
+  "Supervised_Learning": {
     "description": "Proficiency implementing a variety of classification algorithms based of features such as random forest, SVMs, linear/logistic regressions, decision trees, etc. GIS Professional experience remote sensing Natural Protected Areas of pressure with PCA/Image_Differences algorithms.",
-    "tags": ["#Supervised classification", "#Machine-learning", "#Categorical-data", "Continuous-random-variables", "#GIS", "Satellite-imagery"]
+    "tags": ["#Supervised-Classification", "#Machine-Learning", "#Categorical-Data", "#Random-Variables", "#Continuous-Data", "#Discrete-Data", "#GIS", "#Satellite-Imagery"]
   },
   
-  "unsupervised_learning": {
+  "Unsupervised_Learning": {
     "description": "Experienced implementing a wide-rannge of Machine-Learning algorithms wuthout target variables, including training & testing models for anomaly detection, dimensionality reduction, clustering algorithms, etc..",   
-    "tags": ["#Unsupervised-learning", "#Continous-random-variables", "Simulations", "#Training-testing", "#Patterns"]
+    "tags": ["#Unsupervised-Learning", "#Discrete-Continous", "#Random-Variables", "#Simulation_Modelling", "#Training-Testing", "#Pattern-Recognition"]
   },
 
   "CI/CD": {
     "description": "Used to implement CI/CD processes with a variety of web hosting services to automate the process of building & testing features.",
-    "tags": ["#Continuous-deployment", "#Continuous-Integration", "#Feature branching", "#Team-collaborations", "Continuous automation"]
+    "tags": ["#Continuous-Deployment", "#Continuous-Integration", "#Feature-Branching", "#VCS-Networking"]
   },
 
-  "data_engineering": {
-    "description": "Fixed using extraction/collection methods to use a wide-range of Data Science/Analytics/Machine Learning techniques implementing ETL effectively and data-management cloud hosting services to maintain CI/CD pipelines.",
-    "tags": ["#Data-Architecture", "Data-Warehousing", "ETL", "#Data-Engineering", "#Data-Management", "Data-Processing"]
+  "Data_Mining": {
+    "description": "Used to effectively and efficiently have Data Extracted, parsed, transformed and loaded back into the Web specially with the usage of large data sets to scale executive decisions and have them monitored and predicted in real time.",
+    "tags": ["#Data-Mining,", "#Web-Extractions", "#Web-Scraping", "#ETL", "#CI/CD", "#Features-Versioning"]
   },
 
-  "data_migration": {
-    "description": "Skilled using and enabling automated virtual working environment for teams to ensure collaboration and increase reliability including my own, being able to personally setup my working environments anywhere.",
-    "tags": ["#Virtual-environments", "#Reliability", "#Consistecy", "#Collaboration", "Communication", "Readability", "Functionality", "Modularity"]
-  },
-
-  "web_scraping": {
+  "Web_Scraping": {
       "description": "High-level of proficciency using cloud data extraction methods such as .git & .html to the extent of creating complex scripting programs with them & a variety of programming languages in compliance with applicable laws.", 
-      "tags": ["#Web-scraping", "#Data-Extraction", "Data-Mining", "#Legal-compliance", "Disclaimer", "LICENSE", "Privacy-Rights"]
+      "tags": ["#Web-Scraping", "#Data-Extraction", "#Data-Mining", "#Legal-Compliance", "#Disclaimer", "#Privacy-Rights", "#License"]
   },
 
-  "devops/project_management": {
-    "description": "Adept ensuring healthy devops & IT practices to guarantee CI/CD pipelines are maintained while also being used handling project's management to ensure collaborations.",
-    "tags": ["#Devops", "#IT-operations", "#CI/CD", "#Project-Planning", "#Collaborations", "Team-management"]
+  "Devops": {
+    "description": "High-level of expertise config. & maintaining coding CI/CD networks using cloud hosted third-party versioning control systems like Azure/Git on several platforms & frameworks. Used to have the VCS merged to other systems, frameworks and platforms to ensure communication & team collaborations.",
+    "tags": ["#Devops", "#Version control", "#CI/CD", "#Git", "#Azure", "#GitHub", "#GitLab", "#Bitbucket"]
   },
-    
-  "market_risk_management": {
+
+  "MarketRisk_Management": {
     "description": "Experienced managing market risks for arbitrage / portfolio hedging / capital management purposes to help institutions/individuals achieve their financial goals or provide investment services effectively.",
-    "tags": ["#Commodities", "#Forex", "#Interest-Rates", "#Bonds", "#Portfolio-Hedging", "Portfolio-Optimizations", "#Optimization-Ratios"]
+    "tags": ["#Commodities", "#Forex", "#Interest-Rates", "#Bonds", "#Portfolio-Optimizations", "#Portfolio-Hedgings", "#Optimization-Ratios"]
   },
 
-  "credit_risk": {
+  "CreditRisk_Management": {
     "description": "Strong background in Statistics & Mathematics that allow me to manage & understand interest rates to detail to effectively manage default's risk for financial institutions while also being able to predict eligibility of loans.",
-    "tags": ["#Financial-risk", "#Loan-Approval", "#Credit-Scoring", "#Default-Predictions"]
+    "tags": ["#Financial-Risks", "#Loan-Approval", "#Credit-Scoring", "#Default-Predictions"]
   },
 
-  "simulation_modeling": {
+  "Simulation_Modeling": {
     "description": "Used to develop mathematical processes/models practically & determining the distribution of data in order to model it for predictive purposes with limited entries with a great level of precision.",
-    "tags": ["#Probabilities-Statistics", "#Stochastics", "#Quantitative-methods", "Data-Distributions", "Continuous-Random-Variables", "Discrete-Random-Variables", "#Statistical-programming", "Data-Modelling"]
+    "tags": ["#Statistics", "#Stochastics", "#Quantitative-Methods", "#Data-Distribution", "#Fitter", "#Continuous-Variables", "#Discrete-Variables", "#Random-Variables", "#Statistical-Programming", "Data-Modelling"]
   },
 
-  "Linear_programming": {
+  "Linear_Programming": {
     "description": "High level of expertise modelling optimization algorithms to achieve the best solutions including a big number of variables processed.",
-    "tags": ["#Linear programming", "#Mathematical-modelling", "#Capital-allocation", "#Portfolio-optimization", "Objective-Functions", "#Constraints"]
+    "tags": ["#Linear-Programming", "#Mathematical-Modelling", "#Capital-Allocation", "#Portfolio-Optimization", "#Objective-Functions", "#Constraints"]
   },
 
-  "Functional_programming": {
+  "Functional_Programming": {
       "description": "Expert using the programming paradigm efficiently to enable code reusability, readability, consistency / modularity to make data easily accesible by myself in the future or for my team/organization.",
-      "tags": ["#Immutability", "#Lambda-Functions", "Global/local-functions", "#Code-Reusability", "#Recursion", "Simplicity"]
+      "tags": ["#Immutability", "#Lambda-Anonymous", "#GlobalLocal-Functions", "#Reusability", "#Recursion", "Simplicity"]
   },
 
-  "object_oriented_programming": {
-    "description": "Experienced config. object programming paradigm in order to store data, code / procedures.",
-    "tags": ["#Object-oriented-programming", "#Objects", "#Data-inmutability", "Modular-programming", "#Readability", "#Reusability"]
+  "OOP": {
+    "description": "Skilled extracting & parsing Objects within Identifiers Classes created by Modules in OOP paradigms.",
+    "tags": ["#OOP", "#Inmutability", "#Scalability", "#Readability", "#Reusability", "#Modular-Programming", "#Identifiers", "#Classes", "#Modules"]
   },
 
   "Git": {
-    "description": "Git versioning control shell scripting expertise that allow me to have full control of a system's resources in order to ensure team collaborations.",
-    "tags": ["#Git", "#Version control", "#Scripting", "Shell-linux", "#Team-collaboration", "Communication"]
+    "description": "Constantly using Unix-shells for project versioning with Linux/Bash for Windows & MAC OS databases.",
+    "tags": ["#Git", "#.Sh-ext", "#Version-Control", "#Shell-Scripting", ".Ps1", "#Team-Collaborations", "#Communication", "#CI/CD"]
   },
 
   "Github/Gitlab": {
-    "description": "High-level of expertise configuring CI/CD pipelines using public/private cloud hosting services like Github, Gitlab, Azure, Bitbucket with git & knowledge of other team-collaboration such as Subversion.", 
-    "tags": ["#Version control", "Web-hosting", "Collaborations", "Github", "Azure", "Gitlab", "Bitbucket", "Gitkraken"]
+    "description": "High-level of expertise configuring & mantaining CI/CD pipelines using public/private cloud hosting services like Github, Gitlab, Azure, Bitbucket with git & knowledge of other team-collaboration such as Subversion.", 
+    "tags": ["#VCS", "#Web-hosting", "#Github", "#Gitkraken", "#Bash", "#Azure", "#Gitlab", "#Bitbucket"]
   },
 
-  "Azure-devops": {
-    "description": "Advocate of researching and using cloud hosting services & parts of already existing third-party apps/services according to their usage disclaimers for the further config. of personal public/private CI/CD pipelines through feature branching.",
-    "tags": ["#Machine learning", "#Cloud computing", "#Integration", "CI/CD Pipelines", "#Data-warehousing"]
+  "Azure": {
+    "description": "Proven Advocacy networking features & mantaining CI/CD DevOps pipelines through Azure cloud hosted third-party apps/services.",
+    "tags": ["#Machine-Learning", "#Cloud-Computing", "#CI/CD", "#Networking", "#Data-warehousing", "#Pipelines", "#Virtual-Environments"]
   },
 
-  "Data_privacy": {
-    "description": "Inclination for researching/implementing legal measures & disclaimers when using cloud-hosting services securely in order to ensure personal data copyrights & valuable data extraction methods according to applicable laws.",
+  "Data_Privacy": {
+    "description": "Inclination for researching/implementing legal measures & disclaimers considering moral principles/values for web-development and when using cloud-hosted services to have pipelines secured in compliance with copyrights & applicable laws.",
     "tags": ["#Data-Privacy", "#Privacy-Rights", "#Personal-Information", "#Unauthorized-Access", "Copyrights"]
-  },
-
-  "data_ethics": {
-    "description": "Moral principles/values to discern the ethical data collection, usage and dissemination according to its legal compliance.",
-    "tags": ["Morals", "#Ethics", "#Data-Dissemination", "Data-Licenses", "Disclaimers", "Privacy-Laws"]
   },
 
   "Python": {
     "description": "Proficient using Python integrated with a wide-range of programmming languages such as shell/git/php/csharp/javascript/html and in their execution within Python code for terminal scriptings.",
-    "tags": ["#Python", "#data analysis", "#machine learning", "#web development"]
+    "tags": ["#Python", "#Data-Analysis", "#Machine-Learning", "#Web-Development"]
   },
 
   "R": {
-    "description": "Talented using R to develop statistical models more effectively while being able to implement code/models language and files translation.",
-    "tags": ["#R", "#statistical computing", "#data analysis", "#machine learning"]
+    "description": "Talented using R in conjunction with various languages, environments & frameworks for statistical modelling code translation/insights/models effective implementations.",
+    "tags": ["#.R-ext", "#.Rmd-ext", "#Statistical Computing", "#Statistical-Learning", "#Tidyverse"]
   },
 
-  "HTML": {
-    "description": "Preference for the usage of HTML markup language for web development and CI/CD procesesses through cloud-hosting services.",
-    "tags": ["#HTML", "#Cloud-hosting", "#Web-pages", "Azure", "Github/Gitlab", "Bitbucket", "Google-Colab"]
+  "Command_Prompt": {
+    "description": "Experienced setting up Windows OS Databases Architectures Local/Remote Environments with previously defined scripts & files made with Elevated Rights for Superusers.",
+    "tags": ["#CMD", "#.bat-ext", "#CLI", "#%SYSTEMROOT%", "#Terminal", "#Elevated-Rights", "#Remote-Environments", "#Task-Execution", "#OS-Registries"]
   },
 
-  "LaTeX": {
-    "description": "Vast expertise using LaTeX to reference most of my insights/models scientifically while intending insights and conclusions for a non technical audience for simplicity, readability & data visualization purposes.",
-    "tags": ["#Markdown-Expressions", "#LaTeX", "Statistical-Modellling", "Markup-Language", "Hyperlinks", "Bibliography/References"]
-  },
-
-  "Shell": {
+  "Power-Shell": {
     "description": "Expertise using PowerShell/Git/Linux CLI & developing scripts to interact directly with systems resources effectively in communication with local/remote branches for continuous integration and deployment of data.",
-    "tags": ["#Shell scripting", "#CLI", "#Automation", "#File-manipulation"]
+    "tags": ["#Power-Shell", "#PS1-ext", "#Shell-Scripting", "#CLI", "#OS-Registries", "#Windows-OS", "#Databases-Architectures"]
   },
 
   "Matlab": {
-    "description": "Aptitude coding .using a wide variety of financial, optimization, deep learning Matlab toolboxes.",
-    "tags": ["#Matlab", "#numerical computing", "#data analysis", "#scientific computing"]
+    "description": "Proven Aptitude developing matlab proj. with its Financial, Optimization, Neural-Networks and Deep Learning Toolboxes in conjunction with various programming langugaes, frameworks & networks.",
+    "tags": ["#Matlab", "#M-ext", "#Mat-ext", "#Scientific-Computing", "#DeepLearning-Toolbox", "#NeuralNetwork-Toolbox", "#Financial-Toolbox", "#Optimization-Toolbox"]
+  },
+
+  "LaTeX": {
+    "description": "LaTeX Advocate to explain proj. implementations theoretically as scientific reference tools for processes & models while directing results for non technical audiences for major simplicity & code readability.",
+    "tags": ["#LaTeX", "#Statistical-Modellling", "#Hypertext-Transfer", "#Markup-Languages",  "#HTML5", "#HTTPS", "#Data-Privacy"]
+  },
+
+  "Full_Stack_Development": {
+    "description": "Skilled executing frontend and backend algorithms / processes for Web DevOps as for the usage of various frameworks & third-party apps&services.",
+    "tags": ["#FullStack Development", "#Backend-Development", "#Frontend-Development", "#Web-Deployment", "CI/CD"]
+    },
+
+  "HTML/CSS": {
+    "description": "Web Development HTML Advocate and experienced delivering efficient Web coded implementations for clients & users using HTML/CSS, JS, Python, R, PHP, TypeScript in server/client-sided scriptings.",
+    "tags": ["#HTML/CSS", "#Https", "#Cloud-Hosts", "#Web-Development", "#Azure", "#Github", "#Gitlab", "#Bitbucket", "#Google-Colab"]
   },
 
   "Javascript": {
-    "description": "Experience using important tools & programming lagnauge for UX/UI designs for web development on the client-side to enhance user's interactivity.",
-    "tags": ["#Node.js", "#Deployment-Automationt", "#Backend-Devops", "#Frontend-Devops"]
+    "description": "Thorough & Skilled effectively and efficiently embeddding JavaScript code in HTML for Web Development for an enhanced UX/UI in sites and apps.",
+    "tags": ["#Javascript", "#.Js-ext", "#.Json-ext", "#Node.js", "#React", "#Backend-Development", "#Frontend-Development", "#FullStack Development", "#JSON", "#Serverside-Querying"]
   },
 
   "Markdown": {
-    "description": "Highly experienced using Markdown for creating formatted text documents. I have used Markdown extensively to create documentation, README files, and other text-based content for software development projects. My expertise in Markdown allows me to produce high-quality documents & parse html documents easily. I am proficient customizing styles, templates and other designs to meet data visualization objectives.",
-    "tags": ["Markup-Language", "Text-Formatting", "Documentation", "README", "Software-Development", "Plain-Text", "Lightweight"]
+    "description": "Highly experienced using Markdown to create formatted text documents with an increased UX/UI and creation of HTMLs, effectively ensuring high quality Backend DevOps.",
+    "tags": ["#Markup-Languages", "#Plaintext-Formatting", "#YAML", "#Web-Development", "#Plain-Text"]
   },
 
   "U/X Design": {
     "description": "The process of designing digital products or add to them features, intended for the public through websites, apps & tools which also tends to increase customer satisfaction through the enhancement of system's interactivity, usability & accessibility for a better user's experience.",
-    "tags": ["#U/X", "#users-research", "#users-engagement", "#accessibility", "#efficiency", "#interactivity"]
+    "tags": ["#UX-Design", "#WebUsage-Research", "#Web-Engagement", "#Accessibility", "#Interactivity"]
   },
 
   "CSharp": {
     "description": "Proficiency using CSharp to make Windows-Apps & in conjunction with other languages/tools such as power automate interacting with each other such as Javascript, Python, php, html, css & other frameworks like React, Node.js & .NET for the further development of Web apps back/frontends.",
-    "tags": ["#CSharp", "#App-development", "#Windows", "php", ".NET", "Javascript", "#HTML", "#CSS"]
+    "tags": ["#CSharp", "#App-Development", "#Windows", "#PHP", "#.NET", "#Javascript",  "#Client-Sided", "#Server-Sided"]
   },
 
   "PHP": {
-    "description": "Proficiency server-side scripting with PHP enabling websites to interact dynamically with with databases / web services.", 
-    "tags": ["#server-side scripting", "HTML", "CSS", "Javascript", "SQL-server"]
+    "description": "Proficiency server-side scripting with PHP enabling websites to interact dynamically with databases / web services.", 
+    "tags": ["#Serversided-Scripts", "SQL-Servers", "#Https-server"]
   },
 
   "CSS": {
     "description": "Inclined towards making enough CSS objects decently style web pages &/or as well as to strenghthen Data Visualization processes.",
-    "tags": ["#Layout", "#Web-pages", "#Animations", "CSSGrid", "CSS-Objects"]
+    "tags": ["#CSharp", ".NET", "#Web-Layout", "#Web-Development", "#CSS-Grid", "#CSS-Objects"]
   },
 
   "YAML": {
     "description": "Proficiency using YAML markup language for the projects config. using github-actions .",
-    "tags": ["#Config-Files", "#Github-Actions", "Anchors", "Alias-Obj-Refs"]
+    "tags": ["#.Config-Files", "#Github-Actions", "#Anchors", "#Alias"]
   }
 }
 

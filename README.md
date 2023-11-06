@@ -3,7 +3,7 @@
 <div align="center" style="font-family: Arial, sans-serif font-size: 30px">
 
 # <div style= color:#c4c8ff> <img src="https://github.com/EstebanMqz.png?size=100" alt="Financial-Engineer_&_Data-Scientist" style="max-width: 100%;"> <b>Data Scientist, Data Analyst & ML Engineer </b></div>
-<i id="location-icon" style="font-size: 25px"><img class="pin" alt="location" src="https://www.svgrepo.com/show/513552/location-pin.svg" width="35" height="35"> &#127758; Automated LinkedIn match-making Web-Scrapper</i></div><br>
+<i id="location-icon" style="font-size: 20px"><img class="pin" alt="location" src="https://www.svgrepo.com/show/513552/location-pin.svg" width="35" height="35"> &#127758; Automated LinkedIn Skills &amp; Locations match-making Web-Scrapper</i></div><br>
 
 <span style="font-size: 19.8px;">
 
