@@ -117,8 +117,8 @@
   },
 
   "Web_Scraping": {
-      "description": "High-level of proficciency using cloud data extraction methods such as .git & .html to the extent of creating complex scripting programs with them & a variety of programming languages in compliance with applicable laws.", 
-      "tags": ["#Web-Scraping", "#Data-Extraction", "#Data-Mining", "#Legal-Compliance", "#Disclaimer", "#Privacy-Rights", "#License"]
+    "description": "High-level of proficciency using cloud data extraction methods such as .git & .html to the extent of creating complex scripting programs with them & a variety of programming languages in compliance with applicable laws.", 
+    "tags": ["#Web-Scraping", "#Data-Extraction", "#Data-Mining", "#Legal-Compliance", "#Disclaimer", "#Privacy-Rights", "#License"]
   },
 
   "Devops": {
